@@ -1,26 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, {useReducer} from "react";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import "./App.css";
+import AppRouter from "./routes";
+import { AppProvider, initialState } from "./context/context";
+import reducer from "./context/reducer";
 
 const App: React.FC = () => {
+  const [state, dispatch] = useReducer(reducer, initialState)
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <AppProvider value={{state, dispatch}}>
+      <Router>
+        {AppRouter.map(route => (
+          <Route
+            key={route.id}
+            component={route.main}
+            path={route.path}
+            exact={route.exact}
+          />
+        ))}
+      </Router>
+      </AppProvider>
     </div>
   );
-}
+};
 
 export default App;
