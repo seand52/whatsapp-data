@@ -4,7 +4,9 @@
   "private": true,
   "dependencies": {
     "@nivo/calendar": "^0.59.1",
+    "@nivo/line": "^0.59.3",
     "@nivo/pie": "^0.59.1",
+    "@nivo/radar": "^0.59.1",
     "@types/jest": "24.0.15",
     "@types/node": "12.6.1",
     "@types/react": "^16.8.23",

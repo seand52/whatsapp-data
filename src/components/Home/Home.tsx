@@ -2,7 +2,7 @@ import React, {useContext} from "react";
 import styles from "./index.module.scss";
 import { Parser, IMessageData } from "../../utils/parseChat";
 import AppContext from "../../context/context";
-import { setMessageData, setPieChartData, setHeatMapData } from "../../context/actions";
+import { setMessageData, setPieChartData, setHeatMapData, setRadarData, setLineGraphData, setLineGraphDataHours } from "../../context/actions";
 import { withRouter, RouteComponentProps } from "react-router-dom";
 
 
@@ -21,11 +21,20 @@ const Home: React.FC = (props: any) => {
             .forEach(item => messages.push(Parser.formatLine(item)));
         }
       }
+      
       const pieChartData = Parser.getPieChartData(messages)
       const heatMapData = Parser.getHeapMapData(messages)
+      const {radarData, people} = Parser.getRadarData(messages)
+      const lineGraphDataMonths = Parser.getLineGraphDataMonths(messages, people)
+      const lineGraphDataHours = Parser.getLineGraphDataHour(messages, people)
+
+      
       dispatch(setMessageData(messages))
       dispatch(setPieChartData(pieChartData))
       dispatch(setHeatMapData(heatMapData))
+      dispatch(setRadarData(radarData, people))
+      dispatch(setLineGraphData(lineGraphDataMonths))
+      dispatch(setLineGraphDataHours(lineGraphDataHours))
       props.history.push('/results')
     };
     reader.readAsText(file);
