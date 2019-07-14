@@ -27,7 +27,9 @@ const Home: React.FC = (props: any) => {
       const {radarData, people} = Parser.getRadarData(messages)
       const lineGraphDataMonths = Parser.getLineGraphDataMonths(messages, people)
       const lineGraphDataHours = Parser.getLineGraphDataHour(messages, people)
-
+      const totals = Parser.getTotals(messages)
+      const averages = Parser.getAverages(totals)
+      debugger
       
       dispatch(setMessageData(messages))
       dispatch(setPieChartData(pieChartData))

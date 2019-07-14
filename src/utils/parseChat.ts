@@ -162,7 +162,10 @@ export class Parser {
     return { radarData: output, people };
   }
 
-  public static getLineGraphDataMonths(messages: IMessageData[], people: string[]) {
+  public static getLineGraphDataMonths(
+    messages: IMessageData[],
+    people: string[]
+  ) {
     return people.map(person => {
       return {
         id: person,
@@ -171,7 +174,10 @@ export class Parser {
     });
   }
 
-  public static getLineGraphDataHour(messages: IMessageData[], people: string[]) {
+  public static getLineGraphDataHour(
+    messages: IMessageData[],
+    people: string[]
+  ) {
     return people.map(person => {
       return {
         id: person,
@@ -246,5 +252,49 @@ export class Parser {
         item => `${moment(item.time, "hh:mm:ss").format("HH")}:00` === time
       ).length
     }));
+  }
+
+  public static getTotals(messages: IMessageData[]): { [key: string]: number } {
+    const totalDays = this.getTotalDays(messages);
+    const totalMessages = messages.length;
+    const { totalWords, totalCharacters } = this.getTotalWords(messages);
+    return { totalDays, totalMessages, totalWords, totalCharacters };
+  }
+
+  public static getAverages(totals: {
+    [key: string]: number;
+  }): { [key: string]: string } {
+    const { totalDays, totalMessages, totalWords, totalCharacters } = totals;
+    const averageWordsPerMessage = (totalWords / totalMessages).toFixed(2);
+    const averageLettersPerMessage = (totalCharacters / totalMessages).toFixed(2);
+    const averageMessagesPerDay = (totalMessages / totalDays).toFixed(2);
+    const averageLettersPerDay = (totalCharacters / totalDays).toFixed(2);
+    return {
+      averageWordsPerMessage,
+      averageLettersPerMessage,
+      averageMessagesPerDay,
+      averageLettersPerDay
+    };
+  }
+
+  private static getTotalDays(messages: IMessageData[]): number {
+    const firstDay = moment(messages[0].date, "DD-MM-YYYY");
+    const lastDay = moment(messages[messages.length - 2].date, "DD-MM-YYYY");
+    const difference = lastDay.diff(firstDay, "days");
+    return difference;
+  }
+
+  private static getTotalWords(
+    messages: IMessageData[]
+  ): { [key: string]: number } {
+    let totalWords = 0;
+    let totalCharacters = 0;
+    messages.forEach(item => {
+      if (item && item.message) {
+        totalWords = totalWords + item.message.split(" ").length;
+        totalCharacters = totalCharacters + item.message.length;
+      }
+    });
+    return { totalWords, totalCharacters };
   }
 }
