@@ -1,18 +1,17 @@
-import React, {useContext} from "react";
+import React, { useContext } from "react";
 import styles from "./index.module.scss";
 import { Parser, IMessageData } from "../../utils/parseChat";
 import AppContext from "../../context/context";
-import { setMessageData, setPieChartData, setHeatMapData, setRadarData, setLineGraphData, setLineGraphDataHours } from "../../context/actions";
+import { setAllData } from "../../context/actions";
 import { withRouter, RouteComponentProps } from "react-router-dom";
 
-
 const Home: React.FC = (props: any) => {
-  const {dispatch} = useContext(AppContext)
+  const { dispatch } = useContext(AppContext);
 
   const onHandleInput = (event: any) => {
     const reader = new FileReader();
     const file = event.target.files[0];
-    let messages: IMessageData[] = []
+    let messages: IMessageData[] = [];
     reader.onload = function(event) {
       if (event.target !== null && reader.result !== null) {
         if (typeof reader.result === "string") {
@@ -21,23 +20,32 @@ const Home: React.FC = (props: any) => {
             .forEach(item => messages.push(Parser.formatLine(item)));
         }
       }
-      
-      const pieChartData = Parser.getPieChartData(messages)
-      const heatMapData = Parser.getHeapMapData(messages)
-      const {radarData, people} = Parser.getRadarData(messages)
-      const lineGraphDataMonths = Parser.getLineGraphDataMonths(messages, people)
-      const lineGraphDataHours = Parser.getLineGraphDataHour(messages, people)
-      const totals = Parser.getTotals(messages)
-      const averages = Parser.getAverages(totals)
-      debugger
-      
-      dispatch(setMessageData(messages))
-      dispatch(setPieChartData(pieChartData))
-      dispatch(setHeatMapData(heatMapData))
-      dispatch(setRadarData(radarData, people))
-      dispatch(setLineGraphData(lineGraphDataMonths))
-      dispatch(setLineGraphDataHours(lineGraphDataHours))
-      props.history.push('/results')
+
+      const pieChartData = Parser.getPieChartData(messages);
+      const heatMapData = Parser.getHeapMapData(messages);
+      const { radarData, people } = Parser.getRadarData(messages);
+      const lineGraphDataMonths = Parser.getLineGraphDataMonths(
+        messages,
+        people
+      );
+      const lineGraphDataHours = Parser.getLineGraphDataHour(messages, people);
+      const totals = Parser.getTotals(messages);
+      const averages = Parser.getAverages(totals);
+
+      dispatch(
+        setAllData({
+          messagesData: messages,
+          pieChartData,
+          heatMapData,
+          radarData,
+          people,
+          lineGraphData: lineGraphDataMonths,
+          lineGraphDataHours,
+          totals,
+          averages
+        })
+      );
+      props.history.push("/results");
     };
     reader.readAsText(file);
   };
