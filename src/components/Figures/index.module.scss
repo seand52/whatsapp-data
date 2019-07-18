@@ -1,0 +1,17 @@
+.figures {
+  & > h2 {
+    width: 80%;
+    margin-left: 20px;
+  }
+}
+
+.figures_container {
+  display: flex;
+}
+
+.figures_item {
+  margin: 0 20px;
+  border-top: 1px solid black;
+  flex: 1;
+  text-align: center;
+}
