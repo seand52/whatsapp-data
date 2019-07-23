@@ -22,17 +22,18 @@ export interface IHeatMapChart {
 
 export interface IRadarChart {
   day: string;
-  [key: string]: string;
+  [key: string]: string | number;
 }
 
 export interface ILineGraphData {
   id: string;
   data: { x: string; y: number }[];
 }
+
 export class Parser {
   private static messageData: IMessageData;
 
-  public static formatLine(line: string) {
+  public static formatLine(line: string): any {
     if (!line || !line.length) {
       return;
     }
@@ -282,26 +283,34 @@ export class Parser {
 
   public static getAverages(totals: ITotals): IAverages {
     const { totalDays, totalMessages, totalWords, totalCharacters } = totals;
-    const averageWordsPerMessage = Number((totalWords.value / totalMessages.value).toFixed(2));
-    const averageLettersPerMessage =Number((totalCharacters.value / totalMessages.value).toFixed(2))
-    const averageMessagesPerDay =Number( (totalMessages.value / totalDays.value).toFixed(2));
-    const averageLettersPerDay =Number( (totalCharacters.value / totalDays.value).toFixed(2));
+    const averageWordsPerMessage = Number(
+      (totalWords.value / totalMessages.value).toFixed(2)
+    );
+    const averageLettersPerMessage = Number(
+      (totalCharacters.value / totalMessages.value).toFixed(2)
+    );
+    const averageMessagesPerDay = Number(
+      (totalMessages.value / totalDays.value).toFixed(2)
+    );
+    const averageLettersPerDay = Number(
+      (totalCharacters.value / totalDays.value).toFixed(2)
+    );
     return {
       averageWordsPerMessage: {
         value: averageWordsPerMessage,
-        identifier: 'Average Words Per Message'
+        identifier: "Average Words Per Message"
       },
       averageLettersPerMessage: {
         value: averageLettersPerMessage,
-        identifier: 'Average Letters Per Message'
+        identifier: "Average Letters Per Message"
       },
       averageMessagesPerDay: {
         value: averageMessagesPerDay,
-        identifier: 'Average Messages Per Day'
+        identifier: "Average Messages Per Day"
       },
       averageLettersPerDay: {
         value: averageLettersPerDay,
-        identifier: 'Average Letters Per Day'
+        identifier: "Average Letters Per Day"
       }
     };
   }

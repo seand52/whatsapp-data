@@ -13,7 +13,6 @@ import Swal from 'sweetalert2'
 
 const Results: React.FC = (props: any) => {
   const { state } = useContext(AppContext);
-  debugger;
   if (!state.messagesData.length) {
     Swal.fire({
       title: 'All the data displayed will be destroyed',

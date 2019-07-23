@@ -65,3 +65,16 @@
   justify-content: center;
   align-items: center;
 }
+
+.options {
+  & > .demo_data_btn {
+    margin-left: 20px;
+    height: 50px;
+    border-radius: 20px;
+    background: red;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 17px;
+  }
+}

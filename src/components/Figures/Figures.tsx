@@ -9,7 +9,6 @@ interface Props {
 }
 
 export default function Figures({totals, title}: Props) {
-  debugger
   return (
     <section className={styles.figures}>
       <h2 className={styles.figures__title}>{title}</h2>
