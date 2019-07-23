@@ -1,4 +1,5 @@
 import moment from "moment";
+import { ITotals, IAverages } from "../context/context";
 
 export interface IMessageData {
   date: string;
@@ -207,7 +208,7 @@ export class Parser {
       "December"
     ];
     return months.map(month => ({
-      x: month,
+      x: moment(month, "MMMM").format("MMM"),
       y: filteredMessages.filter(
         item => moment(item.date, "DD-MM-YYYY").format("MMMM") === month
       ).length
@@ -254,26 +255,54 @@ export class Parser {
     }));
   }
 
-  public static getTotals(messages: IMessageData[]): { [key: string]: number } {
+  public static getTotals(messages: IMessageData[]): ITotals {
     const totalDays = this.getTotalDays(messages);
     const totalMessages = messages.length;
     const { totalWords, totalCharacters } = this.getTotalWords(messages);
-    return { totalDays, totalMessages, totalWords, totalCharacters };
+
+    return {
+      totalDays: {
+        value: totalDays,
+        identifier: "Total Days"
+      },
+      totalMessages: {
+        value: totalMessages,
+        identifier: "Total Messages"
+      },
+      totalWords: {
+        value: totalWords,
+        identifier: "Total Words"
+      },
+      totalCharacters: {
+        value: totalCharacters,
+        identifier: "Total Characters"
+      }
+    };
   }
 
-  public static getAverages(totals: {
-    [key: string]: number;
-  }): { [key: string]: string } {
+  public static getAverages(totals: ITotals): IAverages {
     const { totalDays, totalMessages, totalWords, totalCharacters } = totals;
-    const averageWordsPerMessage = (totalWords / totalMessages).toFixed(2);
-    const averageLettersPerMessage = (totalCharacters / totalMessages).toFixed(2);
-    const averageMessagesPerDay = (totalMessages / totalDays).toFixed(2);
-    const averageLettersPerDay = (totalCharacters / totalDays).toFixed(2);
+    const averageWordsPerMessage = Number((totalWords.value / totalMessages.value).toFixed(2));
+    const averageLettersPerMessage =Number((totalCharacters.value / totalMessages.value).toFixed(2))
+    const averageMessagesPerDay =Number( (totalMessages.value / totalDays.value).toFixed(2));
+    const averageLettersPerDay =Number( (totalCharacters.value / totalDays.value).toFixed(2));
     return {
-      averageWordsPerMessage,
-      averageLettersPerMessage,
-      averageMessagesPerDay,
-      averageLettersPerDay
+      averageWordsPerMessage: {
+        value: averageWordsPerMessage,
+        identifier: 'Average Words Per Message'
+      },
+      averageLettersPerMessage: {
+        value: averageLettersPerMessage,
+        identifier: 'Average Letters Per Message'
+      },
+      averageMessagesPerDay: {
+        value: averageMessagesPerDay,
+        identifier: 'Average Messages Per Day'
+      },
+      averageLettersPerDay: {
+        value: averageLettersPerDay,
+        identifier: 'Average Letters Per Day'
+      }
     };
   }
 

@@ -1,11 +1,16 @@
 import React from 'react'
 import styles from './index.module.scss'
 
-export default function Title({}) {
+interface Props {
+  startDate: string
+  endDate: string
+  groupName:string
+}
+export default function Title({startDate, endDate, groupName}: Props) {
   return (
     <div className={styles.title}>
-      <h1>WHATSAPP CHAT - GROUP NAME</h1>
-      <p>from Aug 27th, 2016 until Dec 7th, 2016</p>
+      <h1>WHATSAPP CHAT - {groupName}</h1>
+      <p>from {startDate} until {endDate}</p>
     </div>
   )
 }

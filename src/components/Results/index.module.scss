@@ -1,12 +1,28 @@
 .chart_container {
-  width: 1000px;
+  // width: 1000px;
   height: 500px;
 }
 
 .chart_container {
   height: 500px;
+  margin-bottom: 50px;
 }
 
 .heat_map_container {
   width: 100%;
+}
+
+.chart_group_one {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.chart_group_two {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  @media only screen and (max-width: 1400px)  {
+    display: flex;
+    flex-direction: column;
+    // width: 90%;
+  }
 }

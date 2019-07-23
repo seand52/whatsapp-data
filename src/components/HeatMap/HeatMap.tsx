@@ -1,9 +1,10 @@
 import React from "react";
 import { ResponsiveCalendar } from "@nivo/calendar";
 import styles from "./index.module.scss";
+import { IHeatMapChart } from "../../utils/parseChat";
 
 interface IProps {
-  data: any;
+  data: IHeatMapChart[];
 }
 
 export default function PieChart({ data }: IProps) {

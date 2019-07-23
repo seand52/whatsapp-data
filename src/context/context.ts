@@ -7,18 +7,23 @@ import {
   ILineGraphData
 } from "../utils/parseChat";
 
-interface ITotals {
-  totalDays: number
-  totalMessages: number;
-  totalWords: number;
-  totalCharacters: number;
+interface Total {
+  value: number;
+  identifier: string;
 }
 
-interface IAverages {
-  averageWordsPerMessage: string
-  averageLettersPerMessage: string
-  averageMessagesPerDay: string
-  averageLettersPerDay: string
+export interface ITotals {
+  totalDays: Total;
+  totalMessages: Total;
+  totalWords: Total;
+  totalCharacters: Total;
+}
+
+export interface IAverages {
+  averageWordsPerMessage: Total;
+  averageLettersPerMessage: Total;
+  averageMessagesPerDay: Total;
+  averageLettersPerDay: Total;
 }
 
 export interface AppStateInterface {
@@ -31,6 +36,7 @@ export interface AppStateInterface {
   lineGraphDataHours: ILineGraphData[] | [];
   totals: ITotals | {};
   averages: IAverages | {};
+  groupName: string | null
 }
 export const initialState: AppStateInterface = {
   messagesData: [],
@@ -41,7 +47,8 @@ export const initialState: AppStateInterface = {
   lineGraphData: [],
   lineGraphDataHours: [],
   averages: {},
-  totals: {}
+  totals: {},
+  groupName: null
 };
 
 const AppContext = React.createContext({ state: initialState, dispatch: null });

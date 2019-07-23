@@ -1,0 +1,9 @@
+.App {
+  max-width: 1500px;
+  margin: 0 auto;
+  background-color: #F1F1EF;
+}
+
+h1, h2, h3, h4, p, span {
+  color: #3d4959;
+}

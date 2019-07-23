@@ -3,7 +3,7 @@ import { ResponsivePie, PieDatum } from "@nivo/pie";
 import { IPieChart } from "../../utils/parseChat";
 
 interface IProps {
-  data: any
+  data: any // check why IPiechart interface not valid
 }
 export default function PieChart({ data }: IProps) {
   return (

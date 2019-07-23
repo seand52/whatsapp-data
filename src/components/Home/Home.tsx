@@ -44,7 +44,7 @@ const Home: React.FC = (props: any) => {
       const averages = Parser.getAverages(totals);
       dispatch(
         setAllData({
-          messagesData: messages,
+          messagesData: messages.filter(item => item!== undefined),
           pieChartData,
           heatMapData,
           radarData,
@@ -52,7 +52,8 @@ const Home: React.FC = (props: any) => {
           lineGraphData: lineGraphDataMonths,
           lineGraphDataHours,
           totals,
-          averages
+          averages,
+          groupName: messages[0].name
         })
       );
     } catch (err) {

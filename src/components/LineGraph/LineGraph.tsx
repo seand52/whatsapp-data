@@ -1,11 +1,13 @@
 import React from "react";
 import { ResponsiveLine } from "@nivo/line";
+import { ILineGraphData } from "../../utils/parseChat";
 
 interface IProps {
-  data: any;
+  data: ILineGraphData[];
+  legend: string
 }
 
-export default function LineGraph({ data }: IProps) {
+export default function LineGraph({ data, legend }: IProps) {
   return (
     <ResponsiveLine
       data={data}
@@ -19,7 +21,7 @@ export default function LineGraph({ data }: IProps) {
         tickSize: 5,
         tickPadding: 5,
         tickRotation: 0,
-        legend: "transportation",
+        legend: legend,
         legendOffset: 36,
         legendPosition: "middle"
       }}
@@ -49,7 +51,7 @@ export default function LineGraph({ data }: IProps) {
           translateY: 0,
           itemsSpacing: 0,
           itemDirection: "left-to-right",
-          itemWidth: 80,
+          itemWidth: 100,
           itemHeight: 20,
           itemOpacity: 0.75,
           symbolSize: 12,

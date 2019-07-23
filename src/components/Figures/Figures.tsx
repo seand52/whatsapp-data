@@ -1,29 +1,26 @@
 import React from 'react'
 import styles from './index.module.scss'
+import { ITotals, IAverages } from '../../context/context';
 
-interface ITotals {
-  totalCharacters: number
-  totalDays: number
-  totalMessages: number
-  totalWords: number
-}
 
 interface Props {
-  totals: ITotals | {}
+  totals: ITotals | IAverages | {}
   title: string
 }
+
 export default function Figures({totals, title}: Props) {
+  debugger
   return (
     <section className={styles.figures}>
-      <h2>{title}</h2>
+      <h2 className={styles.figures__title}>{title}</h2>
       <div className={styles.figures_container}>
         {Object.keys(totals).map((item, index) => {
           return (
             <div className={styles.figures_item} key={index}>
               <h3>
-                {item}
+                {totals[item].identifier}
               </h3>
-              <p>{totals[item]}</p>
+              <p>{totals[item].value}</p>
             </div>
           )
         })}

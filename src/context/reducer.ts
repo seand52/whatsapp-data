@@ -14,7 +14,8 @@ export default function reducer(state: AppStateInterface, action: any) {
         lineGraphData: action.payload.lineGraphData,
         lineGraphDataHours: action.payload.lineGraphDataHours,
         totals: action.payload.totals,
-        averages: action.payload.averages
+        averages: action.payload.averages,
+        groupName: action.payload.groupName
       };
     default:
       return state;

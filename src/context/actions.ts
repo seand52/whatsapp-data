@@ -14,7 +14,8 @@ export const setAllData = (data: AppStateInterface) => {
       lineGraphData: data.lineGraphData,
       lineGraphDataHours: data.lineGraphDataHours,
       totals: data.totals,
-      averages: data.averages
+      averages: data.averages,
+      groupName: data.groupName
     }
   };
 };
