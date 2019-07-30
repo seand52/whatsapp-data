@@ -2,1442 +2,1640 @@ import { IMessageData } from "./parseChat";
 
 export const demoData: IMessageData[] = [
   {
-    "date": "30-03-2019",
-    "message": "message",
-    "name": "Group Name",
-    "announcement": false,
-    "time": "15:38:52"
-  },
-  {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:38:52"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:38:52"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Sssiuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:39:53"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Visca message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:39:58"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:40:22"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:43:25"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:43:40"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:43:41"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "15:43:53"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "15:43:57"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:43:59"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:00:22"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Buenas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:00:32"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:50:06"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:50:10"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "19:51:39"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "19:51:57"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:52:12"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:52:21"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:34"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Malaso message",
     "name": "Person 2",
     "announcement": false,
     "time": "20:01:41"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
     "time": "20:01:48"
   },
   {
-    "date": "30-03-2019",
+    "date": "30-03-2018",
+    "year": "2018",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:55"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:55:45"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "22:55:48"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "22:56:03"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "22:56:21"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "22:56:44"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "22:56:47"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:05:07"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:05:11"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "Ese message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:05:29"
   },
   {
-    "date": "31-03-2019",
+    "date": "31-03-2018",
+    "year": "2018",
     "message": "En message",
     "name": "Person 2",
     "announcement": false,
     "time": "23:06:08"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:06:44"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:06:53"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:08:20"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "00:09:07"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "00:09:43"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "00:09:58"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "00:13:35"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "00:14:54"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Juddiirrr message",
     "name": "Person 2",
     "announcement": false,
     "time": "07:06:10"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
     "time": "07:06:28"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "13:53:25"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:55:41"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:55:54"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "13:56:28"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:04:01"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:04:04"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Te message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:04:29"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:04:37"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:11:11"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:11:21"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:16:08"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:19:56"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Haha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:26:06"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:26:13"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:29:00"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "14:51:09"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "🤣🤣🤣🤣 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:53:23"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:01:58"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "O message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:02:01"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "1 message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:02:02"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:02:07"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "La message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:02:12"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:43:58"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:44:38"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "18:48:06"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Vaya message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:50:28"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Al message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:50:33"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "18:50:42"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:51:24"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Hahh message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:10:53"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:10:57"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Cerdaz message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:11:00"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:11:04"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Yo message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:11:09"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "19:13:53"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "19:14:33"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "19:14:33"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:46:13"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Yo message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:46:17"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:02:04"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "20:02:26"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "20:10:18"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
     "time": "20:18:12"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
     "time": "20:18:14"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:27:23"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:27:40"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:31:17"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:31:19"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "21:31:54"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:32:03"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "21:33:08"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:35:04"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:35:10"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Todo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:35:23"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "21:35:51"
   },
   {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
+    "message": "message",
+    "name": "Person 1",
+    "announcement": false,
+    "time": "21:44:34"
+  },
+  {
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:44:34"
   },
   {
-    "date": "01-04-2019",
-    "message": "message",
-    "name": "Person 3",
-    "announcement": false,
-    "time": "21:44:34"
-  },
-  {
-    "date": "01-04-2019",
+    "date": "01-04-2018",
+    "year": "2018",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:50:11"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "00:35:29"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "00:35:55"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "00:37:43"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
     "time": "07:05:43"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "100 message",
     "name": "Person 2",
     "announcement": false,
     "time": "07:05:51"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
     "time": "07:05:54"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "14:57:00"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Siuuuu message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:57:04"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Free message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:57:07"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:01:40"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:01:50"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Porque message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:04:22"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Mijo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:04:31"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:11:45"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:11:48"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:12:07"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:13:41"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:17:49"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:17:54"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Ese message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:33:01"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Vaya message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:33:06"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:33:36"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:33:39"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:33:47"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "🤣🤣🤣🤣🤣🤣 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:55:26"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:42:35"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "18:42:46"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "18:42:49"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:44:46"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:45:20"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "18:45:49"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "18:46:23"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "18:46:36"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:43:51"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:43:56"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Aquí message",
     "name": "Person 2",
     "announcement": false,
     "time": "19:44:00"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "20:17:18"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "20:17:27"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:08:32"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:08:38"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Como message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:08:52"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:19:44"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "21:20:20"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:20:26"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:20:31"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:23:09"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:23:23"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:23:27"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:23:44"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:23:53"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:24:31"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:24:36"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:24:42"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "El message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:24:54"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Juanfrangel message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:24:58"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:25:07"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:29:51"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:29:54"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:29:58"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:30:05"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:30:18"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:30:33"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:30:59"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:32:36"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:32:42"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "De message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:32:44"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:37:35"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:37:43"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
     "time": "21:38:17"
   },
   {
-    "date": "02-04-2019",
+    "date": "02-04-2018",
+    "year": "2018",
     "message": "De message",
     "name": "Person 2",
     "announcement": false,
     "time": "21:38:56"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "14:20:10"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:20:14"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "14:20:38"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:33:14"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:33:21"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:33:25"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:33:30"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:02"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "15:34:02"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
+    "message": null,
+    "name": "Person 1",
+    "announcement": true,
+    "time": "15:34:03"
+  },
+  {
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:03"
   },
   {
-    "date": "03-04-2019",
-    "message": null,
-    "name": null,
-    "announcement": true,
-    "time": "15:34:03"
-  },
-  {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:04"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:04"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:04"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:05"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "15:34:05"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "15:34:05"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:06"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": null,
     "name": null,
     "announcement": true,
     "time": "15:34:06"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "15:34:06"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:15:26"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:15:36"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:19:59"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:23:48"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Vir message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:23:59"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Ir message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:24:06"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:51:49"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:51:51"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:51:53"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
     "time": "17:52:05"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:06:50"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:06:52"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Me message",
     "name": "Person 2",
     "announcement": false,
     "time": "18:07:03"
   },
   {
-    "date": "03-04-2019",
+    "date": "03-04-2018",
+    "year": "2018",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -1445,20 +1643,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:10:08"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:05:54"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1466,6 +1667,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1473,6 +1675,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1480,6 +1683,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -1487,6 +1691,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -1494,6 +1699,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1501,6 +1707,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1508,6 +1715,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1515,20 +1723,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:09:26"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:09:44"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -1536,6 +1747,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1543,6 +1755,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1550,6 +1763,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1557,6 +1771,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1564,13 +1779,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:16:19"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1578,6 +1795,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1585,6 +1803,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -1592,6 +1811,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -1599,6 +1819,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -1606,13 +1827,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:19:45"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1620,6 +1843,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1627,13 +1851,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Buenaaas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:24:50"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1641,6 +1867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1648,13 +1875,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "De message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:44"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1662,6 +1891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1669,6 +1899,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -1676,6 +1907,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -1683,6 +1915,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1690,6 +1923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -1697,6 +1931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Hacelo message",
     "name": "Person 2",
     "announcement": false,
@@ -1704,6 +1939,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1711,13 +1947,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:22:21"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1725,6 +1963,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1732,6 +1971,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -1739,13 +1979,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "20:28:30"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -1753,6 +1995,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1760,13 +2003,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:29:06"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1774,6 +2019,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -1781,6 +2027,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -1788,6 +2035,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -1795,6 +2043,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Lo message",
     "name": "Person 2",
     "announcement": false,
@@ -1802,6 +2051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1809,6 +2059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1816,13 +2067,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:54:03"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1830,6 +2083,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1837,6 +2091,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1844,6 +2099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1851,13 +2107,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "Hot message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:58:46"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1865,6 +2123,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1872,6 +2131,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1879,6 +2139,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1886,6 +2147,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -1893,13 +2155,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:00:18"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1907,20 +2171,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:01:48"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:01:58"
   },
   {
     "date": "03-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1928,13 +2195,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "09:09:09"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -1942,6 +2211,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -1949,6 +2219,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "De message",
     "name": "Person 2",
     "announcement": false,
@@ -1956,6 +2227,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1963,6 +2235,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1970,6 +2243,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1977,6 +2251,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1984,6 +2259,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -1991,13 +2267,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:07:13"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2005,6 +2283,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2012,6 +2291,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2019,34 +2299,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:11:51"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:12:10"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Primer message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:12:18"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Lu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:12:21"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -2054,6 +2339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2061,6 +2347,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2068,6 +2355,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2075,6 +2363,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2082,20 +2371,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Sisiuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:16:43"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "A message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:16:48"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2103,6 +2395,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2110,6 +2403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Bua message",
     "name": "Person 2",
     "announcement": false,
@@ -2117,6 +2411,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -2124,20 +2419,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:32:25"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Tienen message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:32:30"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -2145,6 +2443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2152,6 +2451,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -2159,6 +2459,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -2166,13 +2467,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:33:03"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -2180,6 +2483,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2187,13 +2491,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:33:48"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Hahh message",
     "name": "Person 2",
     "announcement": false,
@@ -2201,6 +2507,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Dejame message",
     "name": "Person 2",
     "announcement": false,
@@ -2208,6 +2515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Bueno message",
     "name": "Person 2",
     "announcement": false,
@@ -2215,20 +2523,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Quefsmod message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:35:57"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:36:42"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -2236,6 +2547,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -2243,6 +2555,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -2250,20 +2563,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:04:26"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:04:39"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2271,13 +2587,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "🤣🤣 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:05:22"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2285,13 +2603,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:14:04"
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2299,6 +2619,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2306,6 +2627,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2313,6 +2635,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2320,6 +2643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2327,6 +2651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2334,6 +2659,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -2341,6 +2667,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2348,13 +2675,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:52:41"
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -2362,6 +2691,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -2369,6 +2699,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2376,6 +2707,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -2383,20 +2715,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Hahahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:38:14"
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:42:14"
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2404,13 +2739,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Haha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:44:40"
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Frontend message",
     "name": "Person 2",
     "announcement": false,
@@ -2418,6 +2755,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Guangdong message",
     "name": "Person 2",
     "announcement": false,
@@ -2425,6 +2763,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2432,6 +2771,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -2439,6 +2779,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2446,13 +2787,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:45:44"
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2460,6 +2803,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2467,6 +2811,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2474,6 +2819,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2481,6 +2827,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2488,6 +2835,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2495,13 +2843,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:04:44"
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -2509,6 +2859,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-04-2019",
+    "year": "2019",
     "message": "Jugando message",
     "name": "Person 2",
     "announcement": false,
@@ -2516,6 +2867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2523,6 +2875,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2530,6 +2883,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2537,20 +2891,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:45:17"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Judirrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:02:12"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Estaba message",
     "name": "Person 2",
     "announcement": false,
@@ -2558,13 +2915,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:53:10"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2572,6 +2931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2579,6 +2939,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2586,6 +2947,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2593,6 +2955,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -2600,13 +2963,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Estaba message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:26:24"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2614,13 +2979,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:29:42"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2628,13 +2995,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:45:37"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "1 message",
     "name": "Person 2",
     "announcement": false,
@@ -2642,20 +3011,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:01:25"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:01:56"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -2663,6 +3035,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -2670,6 +3043,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -2677,6 +3051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2684,6 +3059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2691,6 +3067,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2698,6 +3075,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2705,20 +3083,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:21:40"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Pues message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:21:46"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2726,6 +3107,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2733,27 +3115,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:14:24"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Nop message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:14:35"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:14:43"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -2761,6 +3147,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2768,6 +3155,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2775,6 +3163,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2782,20 +3171,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:15:24"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Always message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:18:08"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -2803,6 +3195,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2810,13 +3203,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "16:18:57"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2824,13 +3219,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "El message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:19:06"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Hahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -2838,6 +3235,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2845,6 +3243,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2852,13 +3251,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:22:20"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2866,13 +3267,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:23:06"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2880,6 +3283,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2887,6 +3291,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2894,6 +3299,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2901,6 +3307,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -2908,6 +3315,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -2915,13 +3323,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:30:04"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Visca message",
     "name": "Person 2",
     "announcement": false,
@@ -2929,6 +3339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2936,6 +3347,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Buaaa message",
     "name": "Person 2",
     "announcement": false,
@@ -2943,6 +3355,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -2950,6 +3363,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Tuve message",
     "name": "Person 2",
     "announcement": false,
@@ -2957,6 +3371,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2964,6 +3379,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2971,6 +3387,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -2978,6 +3395,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -2985,6 +3403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Por message",
     "name": "Person 2",
     "announcement": false,
@@ -2992,6 +3411,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -2999,6 +3419,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3006,6 +3427,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3013,6 +3435,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3020,6 +3443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3027,6 +3451,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -3034,6 +3459,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3041,6 +3467,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3048,13 +3475,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:45:48"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3062,6 +3491,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3069,6 +3499,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3076,6 +3507,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3083,6 +3515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3090,6 +3523,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3097,13 +3531,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:15:49"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3111,13 +3547,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:28:44"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3125,27 +3563,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:29:19"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:29:35"
   },
   {
     "date": "06-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:29:43"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3153,13 +3595,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "03:07:28"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3167,27 +3611,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "03:19:25"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "03:19:26"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "03:19:35"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -3195,6 +3643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Cuando message",
     "name": "Person 2",
     "announcement": false,
@@ -3202,6 +3651,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
+    "message": "message",
+    "name": "Person 1",
+    "announcement": false,
+    "time": "12:54:12"
+  },
+  {
+    "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3209,13 +3667,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
-    "message": "message",
-    "name": "Person 3",
-    "announcement": false,
-    "time": "12:54:12"
-  },
-  {
-    "date": "07-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3223,6 +3675,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3230,6 +3683,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3237,6 +3691,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3244,13 +3699,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:55:25"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Judiirrrrrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -3258,6 +3715,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Me message",
     "name": "Person 2",
     "announcement": false,
@@ -3265,6 +3723,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3272,6 +3731,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3279,13 +3739,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:06:20"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -3293,6 +3755,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "The message",
     "name": "Person 2",
     "announcement": false,
@@ -3300,6 +3763,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3307,13 +3771,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:43:12"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3321,6 +3787,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3328,6 +3795,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3335,13 +3803,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:45:15"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Hahahhh message",
     "name": "Person 2",
     "announcement": false,
@@ -3349,13 +3819,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Es message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:00:45"
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -3363,13 +3835,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-04-2019",
+    "year": "2019",
     "message": "Voy message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:06:26"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3377,13 +3851,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:39:36"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3391,6 +3867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3398,6 +3875,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3405,6 +3883,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3412,6 +3891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3419,6 +3899,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3426,13 +3907,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "03:25:41"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3440,6 +3923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3447,34 +3931,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:13:26"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:13:30"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:13:34"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:13:36"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3482,6 +3971,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3489,6 +3979,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3496,6 +3987,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Jajajajajaj message",
     "name": "Person 2",
     "announcement": false,
@@ -3503,13 +3995,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "En message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:32:01"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3517,6 +4011,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3524,27 +4019,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:21:04"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:21:04"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:21:06"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3552,6 +4051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3559,6 +4059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3566,6 +4067,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3573,6 +4075,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3580,13 +4083,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:44:39"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3594,6 +4099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3601,6 +4107,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3608,6 +4115,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3615,6 +4123,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3622,6 +4131,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3629,13 +4139,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:48:19"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3643,6 +4155,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3650,6 +4163,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3657,6 +4171,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3664,6 +4179,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3671,6 +4187,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3678,6 +4195,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3685,6 +4203,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3692,6 +4211,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3699,6 +4219,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3706,6 +4227,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3713,13 +4235,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:49:29"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3727,6 +4251,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3734,6 +4259,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3741,6 +4267,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3748,6 +4275,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3755,6 +4283,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3762,6 +4291,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3769,27 +4299,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:50:14"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:50:20"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:50:33"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3797,6 +4331,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -3804,6 +4339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Thug message",
     "name": "Person 2",
     "announcement": false,
@@ -3811,6 +4347,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -3818,6 +4355,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Sisiiuuuuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -3825,6 +4363,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -3832,34 +4371,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:38:54"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:39:14"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:39:26"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:40:33"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Hahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -3867,13 +4411,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Así message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:43:20"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3881,6 +4427,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3888,6 +4435,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3895,6 +4443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Pur message",
     "name": "Person 2",
     "announcement": false,
@@ -3902,6 +4451,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3909,6 +4459,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -3916,13 +4467,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:10:46"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -3930,6 +4483,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -3937,13 +4491,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:12:31"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3951,6 +4507,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3958,6 +4515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3965,6 +4523,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Hahahhaha message",
     "name": "Person 2",
     "announcement": false,
@@ -3972,6 +4531,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -3979,13 +4539,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Cuando message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:14:17"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -3993,27 +4555,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:14:45"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:14:57"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Easy message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:15:07"
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4021,6 +4587,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -4028,6 +4595,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -4035,6 +4603,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -4042,6 +4611,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Encima message",
     "name": "Person 2",
     "announcement": false,
@@ -4049,6 +4619,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Cerdaz message",
     "name": "Person 2",
     "announcement": false,
@@ -4056,6 +4627,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4063,6 +4635,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4070,6 +4643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Al message",
     "name": "Person 2",
     "announcement": false,
@@ -4077,6 +4651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -4084,6 +4659,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -4091,6 +4667,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -4098,13 +4675,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Así message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:11:38"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Suuuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -4112,13 +4691,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:30:39"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -4126,6 +4707,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -4133,6 +4715,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4140,13 +4723,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:29:46"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -4154,6 +4739,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -4161,6 +4747,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Ah message",
     "name": "Person 2",
     "announcement": false,
@@ -4168,6 +4755,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Sssiuuuuuuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -4175,6 +4763,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -4182,6 +4771,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4189,13 +4779,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:37:44"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4203,6 +4795,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4210,13 +4803,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:39:41"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Luego message",
     "name": "Person 2",
     "announcement": false,
@@ -4224,6 +4819,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4231,6 +4827,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4238,13 +4835,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:15:03"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4252,13 +4851,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:23:27"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4266,6 +4867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4273,13 +4875,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:26:08"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4287,6 +4891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4294,6 +4899,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4301,6 +4907,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4308,6 +4915,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4315,6 +4923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4322,6 +4931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4329,6 +4939,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -4336,6 +4947,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Messi message",
     "name": "Person 2",
     "announcement": false,
@@ -4343,13 +4955,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Arruinó message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:19:05"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -4357,6 +4971,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Ssssiuu message",
     "name": "Person 2",
     "announcement": false,
@@ -4364,6 +4979,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4371,6 +4987,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4378,6 +4995,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -4385,13 +5003,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:58:53"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4399,6 +5019,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4406,13 +5027,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:00:07"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4420,6 +5043,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4427,34 +5051,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:01:07"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:24:04"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Tienes message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:24:11"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Y message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:24:15"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Tano message",
     "name": "Person 2",
     "announcement": false,
@@ -4462,6 +5091,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4469,6 +5099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4476,6 +5107,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -4483,13 +5115,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:27:57"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -4497,6 +5131,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4504,13 +5139,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "El message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:28:13"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -4518,6 +5155,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4525,6 +5163,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4532,6 +5171,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -4539,6 +5179,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -4546,6 +5187,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4553,6 +5195,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4560,6 +5203,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4567,6 +5211,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4574,6 +5219,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4581,6 +5227,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -4588,6 +5235,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Argentina message",
     "name": "Person 2",
     "announcement": false,
@@ -4595,6 +5243,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -4602,6 +5251,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Bueno message",
     "name": "Person 2",
     "announcement": false,
@@ -4609,20 +5259,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "Todo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:34:30"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:43:13"
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4630,13 +5283,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "23:43:53"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4644,13 +5299,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "00:20:58"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4658,6 +5315,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4665,27 +5323,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:04:01"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "14:04:30"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Hahahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:11:16"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -4693,13 +5355,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:36:08"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4707,6 +5371,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4714,6 +5379,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -4721,13 +5387,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Hot message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:41:41"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Ho message",
     "name": "Person 2",
     "announcement": false,
@@ -4735,6 +5403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4742,6 +5411,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "haha message",
     "name": "Person 2",
     "announcement": false,
@@ -4749,13 +5419,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Hasta message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:50:00"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Porque message",
     "name": "Person 2",
     "announcement": false,
@@ -4763,6 +5435,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -4770,6 +5443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4777,20 +5451,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:54:14"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:54:39"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Tu message",
     "name": "Person 2",
     "announcement": false,
@@ -4798,6 +5475,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4805,6 +5483,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4812,20 +5491,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:10:48"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Jajaja message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:19:04"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "En message",
     "name": "Person 2",
     "announcement": false,
@@ -4833,6 +5515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -4840,6 +5523,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4847,6 +5531,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4854,20 +5539,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Judirr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:21:46"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:26:07"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4875,6 +5563,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4882,6 +5571,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4889,6 +5579,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Sssuuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -4896,6 +5587,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -4903,6 +5595,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4910,6 +5603,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -4917,6 +5611,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4924,6 +5619,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -4931,13 +5627,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:39:18"
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4945,6 +5643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -4952,6 +5651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -4959,6 +5659,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -4966,13 +5667,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "A message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:51:04"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -4980,20 +5683,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:39:36"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:39:51"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5001,6 +5707,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5008,13 +5715,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:20:12"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Con message",
     "name": "Person 2",
     "announcement": false,
@@ -5022,6 +5731,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -5029,20 +5739,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Acabo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:20:50"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:22:39"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5050,27 +5763,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Haha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:25:14"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Mejor message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:25:24"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:26:09"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -5078,20 +5795,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "Sssiuuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:26:29"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "20:26:48"
   },
   {
     "date": "11-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5099,6 +5819,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5106,6 +5827,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5113,6 +5835,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -5120,13 +5843,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:22:39"
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -5134,13 +5859,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:09:19"
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5148,6 +5875,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5155,6 +5883,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -5162,6 +5891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Cuando message",
     "name": "Person 2",
     "announcement": false,
@@ -5169,6 +5899,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -5176,6 +5907,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5183,13 +5915,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:29:07"
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -5197,6 +5931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5204,6 +5939,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5211,6 +5947,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -5218,6 +5955,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Avisame message",
     "name": "Person 2",
     "announcement": false,
@@ -5225,13 +5963,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:48:53"
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5239,6 +5979,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5246,6 +5987,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -5253,13 +5995,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:18:13"
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5267,6 +6011,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -5274,27 +6019,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "13:03:57"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:04:08"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:04:19"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5302,6 +6051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -5309,6 +6059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5316,6 +6067,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5323,6 +6075,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5330,6 +6083,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5337,6 +6091,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5344,6 +6099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -5351,6 +6107,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5358,6 +6115,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5365,6 +6123,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5372,13 +6131,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:18:38"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5386,6 +6147,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5393,6 +6155,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5400,6 +6163,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5407,6 +6171,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5414,6 +6179,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5421,6 +6187,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -5428,6 +6195,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5435,13 +6203,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:05:41"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5449,6 +6219,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5456,6 +6227,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5463,20 +6235,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:21:29"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Estaba message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:21:33"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5484,6 +6259,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5491,6 +6267,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5498,13 +6275,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:22:58"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5512,6 +6291,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -5519,6 +6299,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -5526,6 +6307,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5533,6 +6315,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5540,6 +6323,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -5547,6 +6331,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -5554,6 +6339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -5561,6 +6347,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Tienes message",
     "name": "Person 2",
     "announcement": false,
@@ -5568,20 +6355,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:35:23"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:42:40"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5589,6 +6379,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5596,13 +6387,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:44:14"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -5610,6 +6403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -5617,6 +6411,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -5624,6 +6419,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "E message",
     "name": "Person 2",
     "announcement": false,
@@ -5631,6 +6427,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5638,6 +6435,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -5645,6 +6443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -5652,13 +6451,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:45:12"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -5666,6 +6467,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5673,6 +6475,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5680,6 +6483,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5687,6 +6491,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5694,6 +6499,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5701,6 +6507,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5708,6 +6515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5715,6 +6523,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
+    "message": "message",
+    "name": "Person 1",
+    "announcement": false,
+    "time": "19:52:55"
+  },
+  {
+    "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5722,13 +6539,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
-    "message": "message",
-    "name": "Person 2",
-    "announcement": false,
-    "time": "19:52:55"
-  },
-  {
-    "date": "13-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -5736,6 +6547,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -5743,6 +6555,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5750,20 +6563,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:21:35"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:22:08"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5771,6 +6587,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Hahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -5778,13 +6595,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:23:37"
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -5792,20 +6611,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:29:34"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:16:37"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5813,6 +6635,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5820,6 +6643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5827,6 +6651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -5834,13 +6659,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:12:59"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5848,13 +6675,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:13:52"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5862,6 +6691,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -5869,13 +6699,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:16:28"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5883,6 +6715,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5890,6 +6723,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -5897,6 +6731,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Donde message",
     "name": "Person 2",
     "announcement": false,
@@ -5904,6 +6739,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -5911,6 +6747,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5918,13 +6755,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Buenas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:48:46"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -5932,6 +6771,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Tardaz message",
     "name": "Person 2",
     "announcement": false,
@@ -5939,6 +6779,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -5946,6 +6787,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5953,6 +6795,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5960,13 +6803,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:12:30"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -5974,6 +6819,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5981,6 +6827,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -5988,13 +6835,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:23:13"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -6002,13 +6851,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:23:34"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -6016,6 +6867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6023,6 +6875,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -6030,13 +6883,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:24:04"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6044,13 +6899,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Seguro message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:30:23"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Algo message",
     "name": "Person 2",
     "announcement": false,
@@ -6058,6 +6915,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6065,6 +6923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -6072,13 +6931,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Hahahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:42:29"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6086,13 +6947,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:42:37"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -6100,6 +6963,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Seguro message",
     "name": "Person 2",
     "announcement": false,
@@ -6107,13 +6971,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:43:46"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -6121,13 +6987,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "No message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:52:14"
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6135,6 +7003,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6142,6 +7011,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6149,13 +7019,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-04-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:54:08"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -6163,6 +7035,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6170,13 +7043,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:08:16"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -6184,6 +7059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -6191,13 +7067,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Mani message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:19:09"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6205,6 +7083,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6212,6 +7091,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -6219,6 +7099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Ahora message",
     "name": "Person 2",
     "announcement": false,
@@ -6226,13 +7107,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:01:39"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6240,6 +7123,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6247,13 +7131,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:02:14"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -6261,6 +7147,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -6268,20 +7155,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Esta message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:03:51"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Domingo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:04:09"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6289,6 +7179,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6296,6 +7187,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -6303,6 +7195,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Está message",
     "name": "Person 2",
     "announcement": false,
@@ -6310,13 +7203,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Huangdong message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:25:31"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6324,6 +7219,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6331,6 +7227,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6338,6 +7235,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6345,20 +7243,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:04:00"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Ese message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:04:05"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6366,6 +7267,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6373,6 +7275,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6380,6 +7283,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6387,6 +7291,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6394,6 +7299,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -6401,6 +7307,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "😂😂😂 message",
     "name": "Person 2",
     "announcement": false,
@@ -6408,6 +7315,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6415,13 +7323,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:29:04"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6429,6 +7339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6436,13 +7347,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:36:09"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6450,6 +7363,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -6457,6 +7371,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6464,6 +7379,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "And message",
     "name": "Person 2",
     "announcement": false,
@@ -6471,6 +7387,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Best message",
     "name": "Person 2",
     "announcement": false,
@@ -6478,6 +7395,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6485,6 +7403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6492,6 +7411,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6499,6 +7419,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6506,6 +7427,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6513,27 +7435,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:43:14"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:52:31"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:52:44"
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "Jajaj message",
     "name": "Person 2",
     "announcement": false,
@@ -6541,20 +7467,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "15-04-2019",
+    "year": "2019",
     "message": "No message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:53:06"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:13:12"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6562,6 +7491,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6569,13 +7499,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:13:34"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6583,6 +7515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6590,6 +7523,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -6597,6 +7531,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Dame message",
     "name": "Person 2",
     "announcement": false,
@@ -6604,6 +7539,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Seguro message",
     "name": "Person 2",
     "announcement": false,
@@ -6611,6 +7547,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -6618,20 +7555,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:15:09"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:15:09"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6639,6 +7579,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6646,20 +7587,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:17:17"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Pues message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:17:32"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Estará message",
     "name": "Person 2",
     "announcement": false,
@@ -6667,6 +7611,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6674,6 +7619,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6681,13 +7627,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:31:13"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6695,6 +7643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -6702,6 +7651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Sssiuu message",
     "name": "Person 2",
     "announcement": false,
@@ -6709,6 +7659,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6716,6 +7667,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6723,13 +7675,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:00:58"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6737,6 +7691,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6744,6 +7699,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -6751,6 +7707,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -6758,6 +7715,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Cerdaz message",
     "name": "Person 2",
     "announcement": false,
@@ -6765,6 +7723,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6772,6 +7731,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6779,20 +7739,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:15:29"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:16:35"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -6800,13 +7763,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:26:32"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -6814,6 +7779,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Este message",
     "name": "Person 2",
     "announcement": false,
@@ -6821,6 +7787,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Seguro message",
     "name": "Person 2",
     "announcement": false,
@@ -6828,20 +7795,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "La message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:46:07"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Suerte message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:46:19"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6849,27 +7819,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:49:16"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:49:40"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:50:08"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Judirrrrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -6877,6 +7851,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Ma message",
     "name": "Person 2",
     "announcement": false,
@@ -6884,6 +7859,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6891,6 +7867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -6898,6 +7875,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -6905,13 +7883,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "23:02:24"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6919,6 +7899,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -6926,6 +7907,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -6933,6 +7915,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Le message",
     "name": "Person 2",
     "announcement": false,
@@ -6940,6 +7923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6947,6 +7931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6954,20 +7939,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:40:55"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:42:40"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Beware message",
     "name": "Person 2",
     "announcement": false,
@@ -6975,6 +7963,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6982,6 +7971,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6989,6 +7979,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -6996,6 +7987,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -7003,6 +7995,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7010,6 +8003,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7017,6 +8011,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7024,6 +8019,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7031,13 +8027,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:54:04"
   },
   {
     "date": "16-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7045,6 +8043,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -7052,6 +8051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -7059,13 +8059,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:31:22"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7073,6 +8075,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7080,6 +8083,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7087,6 +8091,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -7094,6 +8099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Entonces message",
     "name": "Person 2",
     "announcement": false,
@@ -7101,6 +8107,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -7108,6 +8115,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7115,6 +8123,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7122,6 +8131,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "🤣🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -7129,13 +8139,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Esta message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:34:34"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7143,20 +8155,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:47:07"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Quieren message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:47:32"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7164,6 +8179,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7171,6 +8187,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7178,20 +8195,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:59:17"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:59:24"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -7199,6 +8219,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Vete message",
     "name": "Person 2",
     "announcement": false,
@@ -7206,20 +8227,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Tus message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:38:15"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:38:48"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Buenaso message",
     "name": "Person 2",
     "announcement": false,
@@ -7227,6 +8251,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -7234,6 +8259,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7241,27 +8267,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:47:10"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:47:18"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:47:22"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -7269,6 +8299,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -7276,6 +8307,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "9 message",
     "name": "Person 2",
     "announcement": false,
@@ -7283,6 +8315,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Ahora message",
     "name": "Person 2",
     "announcement": false,
@@ -7290,6 +8323,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -7297,6 +8331,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7304,6 +8339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -7311,6 +8347,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -7318,13 +8355,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "No message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:06:21"
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -7332,6 +8371,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7339,6 +8379,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -7346,6 +8387,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7353,6 +8395,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7360,6 +8403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -7367,6 +8411,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7374,6 +8419,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7381,6 +8427,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7388,6 +8435,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -7395,6 +8443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Siuu message",
     "name": "Person 2",
     "announcement": false,
@@ -7402,6 +8451,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -7409,6 +8459,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7416,20 +8467,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:16:11"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:46:06"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -7437,6 +8491,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -7444,6 +8499,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7451,6 +8507,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7458,6 +8515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7465,6 +8523,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -7472,6 +8531,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -7479,13 +8539,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:25:33"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7493,13 +8555,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:25:49"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7507,13 +8571,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:26:16"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -7521,6 +8587,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -7528,13 +8595,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:37:06"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7542,6 +8611,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7549,6 +8619,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7556,6 +8627,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7563,6 +8635,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -7570,6 +8643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7577,6 +8651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7584,6 +8659,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7591,34 +8667,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:44:03"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:56:28"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "Ssiuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:56:30"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:57:42"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7626,27 +8707,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:57:55"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:58:19"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:43:22"
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7654,6 +8739,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7661,13 +8747,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Supermercats message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:56:53"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -7675,6 +8763,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -7682,13 +8771,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Los message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:57:22"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -7696,6 +8787,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7703,6 +8795,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7710,6 +8803,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7717,13 +8811,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:41:01"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -7731,34 +8827,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Recién message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:53:48"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:54:17"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:54:23"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:55:16"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Cansadas message",
     "name": "Person 2",
     "announcement": false,
@@ -7766,6 +8867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7773,13 +8875,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:55:38"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -7787,6 +8891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Huangdong message",
     "name": "Person 2",
     "announcement": false,
@@ -7794,6 +8899,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7801,13 +8907,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:07:54"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7815,6 +8923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -7822,6 +8931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -7829,6 +8939,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7836,6 +8947,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7843,6 +8955,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -7850,6 +8963,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7857,13 +8971,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:04:10"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -7871,6 +8987,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -7878,13 +8995,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Sssiuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:08:07"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -7892,6 +9011,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -7899,6 +9019,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Estará message",
     "name": "Person 2",
     "announcement": false,
@@ -7906,6 +9027,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7913,6 +9035,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7920,6 +9043,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -7927,6 +9051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -7934,6 +9059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Ma message",
     "name": "Person 2",
     "announcement": false,
@@ -7941,6 +9067,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7948,13 +9075,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:37:55"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -7962,6 +9091,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Best message",
     "name": "Person 2",
     "announcement": false,
@@ -7969,27 +9099,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Mani message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:05:47"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:06:30"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:06:54"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -7997,13 +9131,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Vamos message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:07:15"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8011,6 +9147,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8018,13 +9155,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:07:33"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -8032,6 +9171,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "De message",
     "name": "Person 2",
     "announcement": false,
@@ -8039,13 +9179,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:07:45"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8053,6 +9195,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -8060,13 +9203,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Creo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:09:16"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8074,20 +9219,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Sssiuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:13:20"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Ese message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:13:49"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -8095,6 +9243,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8102,13 +9251,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:15:48"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -8116,20 +9267,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:16:07"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:17:54"
   },
   {
     "date": "19-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8137,13 +9291,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:32:53"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -8151,6 +9307,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -8158,6 +9315,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8165,13 +9323,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:32:28"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8179,6 +9339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -8186,6 +9347,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -8193,6 +9355,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8200,6 +9363,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8207,6 +9371,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Hahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -8214,20 +9379,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Bueno message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:31:43"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Ahora message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:31:47"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8235,6 +9403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8242,20 +9411,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:59:17"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Ssii message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:32:03"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8263,6 +9435,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8270,6 +9443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8277,13 +9451,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:42:05"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -8291,6 +9467,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -8298,6 +9475,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Otla message",
     "name": "Person 2",
     "announcement": false,
@@ -8305,6 +9483,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Ta message",
     "name": "Person 2",
     "announcement": false,
@@ -8312,6 +9491,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -8319,13 +9499,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "22:09:01"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -8333,6 +9515,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8340,6 +9523,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8347,6 +9531,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8354,27 +9539,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:50:39"
   },
   {
     "date": "20-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:50:41"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "05:39:52"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8382,13 +9571,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "05:41:51"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8396,6 +9587,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -8403,13 +9595,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "06:46:23"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8417,20 +9611,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:32:59"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:33:28"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "Hahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -8438,6 +9635,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "Estos message",
     "name": "Person 2",
     "announcement": false,
@@ -8445,6 +9643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8452,6 +9651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -8459,6 +9659,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8466,6 +9667,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8473,13 +9675,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "Judirrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:07:10"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -8487,6 +9691,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -8494,20 +9699,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:09:31"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:09:36"
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8515,6 +9723,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8522,6 +9731,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8529,6 +9739,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8536,6 +9747,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8543,6 +9755,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8550,6 +9763,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8557,6 +9771,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8564,6 +9779,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8571,20 +9787,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:03:43"
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:04:04"
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -8592,13 +9811,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "Malazo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:46:29"
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8606,6 +9827,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8613,6 +9835,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -8620,6 +9843,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8627,6 +9851,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8634,13 +9859,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:43:56"
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8648,13 +9875,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:43:59"
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8662,6 +9891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8669,13 +9899,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:45:06"
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8683,6 +9915,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8690,6 +9923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8697,13 +9931,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:01:52"
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -8711,13 +9947,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Y message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:14:06"
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Lo message",
     "name": "Person 2",
     "announcement": false,
@@ -8725,13 +9963,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:22:38"
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8739,6 +9979,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8746,6 +9987,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8753,6 +9995,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8760,6 +10003,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -8767,6 +10011,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -8774,13 +10019,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Un message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:51:48"
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8788,6 +10035,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8795,6 +10043,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8802,6 +10051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8809,6 +10059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -8816,6 +10067,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -8823,6 +10075,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Como message",
     "name": "Person 2",
     "announcement": false,
@@ -8830,20 +10083,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Sisiuuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:07:43"
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:12:23"
   },
   {
     "date": "23-04-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -8851,6 +10107,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -8858,6 +10115,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8865,27 +10123,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:29:29"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Judddddoirrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "07:05:33"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Vamos message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "07:05:40"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8893,6 +10155,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -8900,6 +10163,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Cuanto message",
     "name": "Person 2",
     "announcement": false,
@@ -8907,6 +10171,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8914,20 +10179,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Buenas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:11:27"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:17:29"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8935,6 +10203,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -8942,6 +10211,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Ssiuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -8949,6 +10219,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -8956,20 +10227,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Haha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:56:36"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "El message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:56:38"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Sisiuuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -8977,6 +10251,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -8984,13 +10259,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Ecuadorian message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:56:48"
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -8998,6 +10275,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9005,6 +10283,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -9012,6 +10291,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -9019,6 +10299,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -9026,6 +10307,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Hoy message",
     "name": "Person 2",
     "announcement": false,
@@ -9033,13 +10315,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Para message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:06:22"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -9047,6 +10331,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9054,6 +10339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9061,13 +10347,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:33:49"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Terminar message",
     "name": "Person 2",
     "announcement": false,
@@ -9075,13 +10363,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:34:20"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9089,6 +10379,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9096,6 +10387,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9103,6 +10395,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Cierto message",
     "name": "Person 2",
     "announcement": false,
@@ -9110,6 +10403,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Solo message",
     "name": "Person 2",
     "announcement": false,
@@ -9117,13 +10411,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:37:58"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9131,6 +10427,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9138,6 +10435,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9145,6 +10443,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -9152,6 +10451,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9159,6 +10459,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -9166,13 +10467,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Cobran message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:40:47"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -9180,6 +10483,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -9187,6 +10491,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9194,13 +10499,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:54:39"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -9208,13 +10515,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:54:53"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -9222,20 +10531,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:56:00"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Escribile message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:56:05"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Bua message",
     "name": "Person 2",
     "announcement": false,
@@ -9243,6 +10555,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9250,13 +10563,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:05:24"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -9264,13 +10579,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:30:59"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9278,13 +10595,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:31:19"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -9292,20 +10611,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:49:41"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:49:45"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9313,6 +10635,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Buaaa message",
     "name": "Person 2",
     "announcement": false,
@@ -9320,6 +10643,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Big message",
     "name": "Person 2",
     "announcement": false,
@@ -9327,6 +10651,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9334,34 +10659,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:16:11"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:16:18"
   },
   {
     "date": "25-04-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:09:18"
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:54:34"
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -9369,6 +10699,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9376,6 +10707,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "Hahhah message",
     "name": "Person 2",
     "announcement": false,
@@ -9383,13 +10715,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "No message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:59:09"
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9397,6 +10731,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9404,13 +10739,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:59:31"
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9418,6 +10755,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "Trabajar message",
     "name": "Person 2",
     "announcement": false,
@@ -9425,6 +10763,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "Haciendo message",
     "name": "Person 2",
     "announcement": false,
@@ -9432,6 +10771,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9439,6 +10779,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-04-2019",
+    "year": "2019",
     "message": "Siiu message",
     "name": "Person 2",
     "announcement": false,
@@ -9446,6 +10787,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9453,6 +10795,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9460,6 +10803,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -9467,6 +10811,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9474,6 +10819,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9481,20 +10827,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "Haha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:39:22"
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "Huangdong message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:39:29"
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9502,6 +10851,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9509,6 +10859,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9516,13 +10867,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:10:03"
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9530,6 +10883,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -9537,6 +10891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9544,13 +10899,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "🤣🤣🤣 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:37:00"
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -9558,6 +10915,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9565,6 +10923,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9572,6 +10931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9579,6 +10939,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "Hahha message",
     "name": "Person 2",
     "announcement": false,
@@ -9586,20 +10947,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:03:06"
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:06:46"
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9607,13 +10971,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:29:56"
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "The message",
     "name": "Person 2",
     "announcement": false,
@@ -9621,13 +10987,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:30:24"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -9635,6 +11003,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -9642,6 +11011,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Me message",
     "name": "Person 2",
     "announcement": false,
@@ -9649,6 +11019,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Ssssiiuuuuuuuuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -9656,13 +11027,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:46:45"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9670,6 +11043,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9677,6 +11051,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9684,6 +11059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9691,13 +11067,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:49:27"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9705,6 +11083,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9712,6 +11091,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9719,6 +11099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -9726,20 +11107,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:57:15"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Me message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:57:33"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "3000 message",
     "name": "Person 2",
     "announcement": false,
@@ -9747,6 +11131,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9754,6 +11139,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -9761,6 +11147,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -9768,6 +11155,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9775,6 +11163,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "🤣🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -9782,6 +11171,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -9789,13 +11179,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Aun message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:58:32"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Al message",
     "name": "Person 2",
     "announcement": false,
@@ -9803,6 +11195,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9810,6 +11203,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9817,13 +11211,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:23:33"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9831,6 +11227,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9838,6 +11235,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9845,20 +11243,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:25:36"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:25:40"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -9866,6 +11267,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -9873,6 +11275,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9880,6 +11283,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9887,6 +11291,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9894,6 +11299,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9901,13 +11307,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:32:46"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -9915,6 +11323,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -9922,6 +11331,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9929,6 +11339,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -9936,6 +11347,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -9943,6 +11355,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -9950,6 +11363,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Otla message",
     "name": "Person 2",
     "announcement": false,
@@ -9957,6 +11371,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9964,6 +11379,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9971,20 +11387,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Malazo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:33:38"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "22:20:27"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -9992,13 +11411,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahhahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:21:15"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "También message",
     "name": "Person 2",
     "announcement": false,
@@ -10006,20 +11427,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:27:23"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:28:03"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10027,6 +11451,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -10034,6 +11459,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10041,6 +11467,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -10048,6 +11475,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Buaaaa message",
     "name": "Person 2",
     "announcement": false,
@@ -10055,6 +11483,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10062,6 +11491,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -10069,20 +11499,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Fra message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:36:42"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "La message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:36:51"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10090,6 +11523,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10097,6 +11531,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10104,27 +11539,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:39:41"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Buenas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:39:43"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:40:41"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10132,13 +11571,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hasta message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:43:59"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10146,6 +11587,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10153,13 +11595,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Nada message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:44:28"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10167,13 +11611,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:44:45"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10181,6 +11627,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10188,6 +11635,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10195,13 +11643,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:51:39"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Old message",
     "name": "Person 2",
     "announcement": false,
@@ -10209,6 +11659,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10216,6 +11667,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10223,20 +11675,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:55:23"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:55:33"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10244,6 +11699,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -10251,6 +11707,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -10258,6 +11715,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10265,6 +11723,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10272,6 +11731,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10279,6 +11739,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10286,55 +11747,63 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:58:57"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:59:50"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:00:03"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:02:14"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:02:45"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:06:22"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:07:19"
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -10342,20 +11811,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-04-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:11:50"
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Mani message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:07:28"
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -10363,6 +11835,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Best message",
     "name": "Person 2",
     "announcement": false,
@@ -10370,6 +11843,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10377,6 +11851,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10384,6 +11859,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10391,6 +11867,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Jajaj message",
     "name": "Person 2",
     "announcement": false,
@@ -10398,6 +11875,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Vaya message",
     "name": "Person 2",
     "announcement": false,
@@ -10405,6 +11883,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10412,6 +11891,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10419,6 +11899,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10426,20 +11907,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Ssiiuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:29:08"
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:48:09"
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -10447,6 +11931,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Ese message",
     "name": "Person 2",
     "announcement": false,
@@ -10454,6 +11939,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -10461,6 +11947,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10468,6 +11955,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10475,13 +11963,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:57:50"
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10489,6 +11979,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -10496,13 +11987,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-05-2019",
+    "year": "2019",
     "message": "Fallo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:59:46"
   },
   {
     "date": "02-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -10510,13 +12003,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-05-2019",
+    "year": "2019",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:00:11"
   },
   {
     "date": "02-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10524,20 +12019,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:28:31"
   },
   {
     "date": "02-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:28:37"
   },
   {
     "date": "03-05-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -10545,13 +12043,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-05-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:17:16"
   },
   {
     "date": "03-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10559,6 +12059,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10566,6 +12067,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10573,20 +12075,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:18:54"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:19:05"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -10594,6 +12099,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10601,6 +12107,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10608,6 +12115,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10615,6 +12123,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10622,13 +12131,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:25:51"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10636,13 +12147,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:29:30"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10650,6 +12163,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10657,6 +12171,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10664,20 +12179,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:31:04"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:32:19"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10685,6 +12203,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10692,6 +12211,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10699,13 +12219,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:34:50"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10713,13 +12235,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:35:14"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10732,6 +12256,7 @@ export const demoData: IMessageData[] = [
   null,
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10739,6 +12264,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10746,6 +12272,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10753,13 +12280,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:56:26"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10767,6 +12296,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -10774,6 +12304,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Haberle message",
     "name": "Person 2",
     "announcement": false,
@@ -10781,6 +12312,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10788,6 +12320,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "This message",
     "name": "Person 2",
     "announcement": false,
@@ -10795,13 +12328,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:21:18"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -10809,6 +12344,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Hajajaja message",
     "name": "Person 2",
     "announcement": false,
@@ -10816,6 +12352,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10823,6 +12360,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10830,20 +12368,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:24:27"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:08:48"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -10851,6 +12392,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10858,6 +12400,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10865,6 +12408,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Judi message",
     "name": "Person 2",
     "announcement": false,
@@ -10872,20 +12416,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:06:05"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Hacia message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:06:15"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Manu message",
     "name": "Person 2",
     "announcement": false,
@@ -10893,6 +12440,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Vas message",
     "name": "Person 2",
     "announcement": false,
@@ -10900,6 +12448,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10907,6 +12456,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10914,6 +12464,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10921,6 +12472,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10928,13 +12480,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:15:49"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10942,6 +12496,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -10949,6 +12504,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -10956,13 +12512,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Neg message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:37:36"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Negra message",
     "name": "Person 2",
     "announcement": false,
@@ -10970,6 +12528,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -10977,6 +12536,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -10984,13 +12544,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:39:21"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -10998,6 +12560,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Al message",
     "name": "Person 2",
     "announcement": false,
@@ -11005,6 +12568,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -11012,6 +12576,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "@49179592225 message",
     "name": "Person 2",
     "announcement": false,
@@ -11019,27 +12584,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "@5521993329480 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:43:22"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Cerdazisisisom message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:45:00"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:13:40"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -11047,13 +12616,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Nada message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:19:06"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11061,6 +12632,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -11068,6 +12640,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11075,13 +12648,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:21:53"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11089,6 +12664,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -11096,20 +12672,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:32:02"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:32:11"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11117,13 +12696,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:32:20"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11131,20 +12712,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:34:41"
   },
   {
     "date": "04-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:34:51"
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -11152,6 +12736,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11159,6 +12744,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11166,13 +12752,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:31:59"
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11180,6 +12768,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11187,13 +12776,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:42:21"
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11201,6 +12792,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11208,6 +12800,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11215,6 +12808,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11222,6 +12816,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11229,6 +12824,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11236,6 +12832,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "Ufff message",
     "name": "Person 2",
     "announcement": false,
@@ -11243,6 +12840,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "Tiene message",
     "name": "Person 2",
     "announcement": false,
@@ -11250,6 +12848,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "Too message",
     "name": "Person 2",
     "announcement": false,
@@ -11257,13 +12856,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:11:19"
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -11271,6 +12872,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -11278,6 +12880,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-05-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -11285,6 +12888,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11292,13 +12896,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:40:46"
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11306,13 +12912,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:42:53"
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -11320,13 +12928,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:45:23"
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "Buenaso message",
     "name": "Person 2",
     "announcement": false,
@@ -11334,6 +12944,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -11341,6 +12952,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11348,6 +12960,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11355,6 +12968,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11362,6 +12976,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -11369,6 +12984,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11376,6 +12992,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11383,6 +13000,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11390,6 +13008,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -11397,20 +13016,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:22:38"
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "Eso message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:22:45"
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11418,20 +13040,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:33:11"
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:40:01"
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11439,6 +13064,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11446,6 +13072,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-05-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -11453,13 +13080,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:05:15"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Ganan message",
     "name": "Person 2",
     "announcement": false,
@@ -11467,13 +13096,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:05:31"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Suerte message",
     "name": "Person 2",
     "announcement": false,
@@ -11481,13 +13112,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "God message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:11:58"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11495,6 +13128,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11502,6 +13136,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Malazo message",
     "name": "Person 2",
     "announcement": false,
@@ -11509,20 +13144,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Siempre message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:44:59"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:52:50"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11530,6 +13168,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11537,6 +13176,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11544,20 +13184,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:53:51"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:54:39"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Vaya message",
     "name": "Person 2",
     "announcement": false,
@@ -11565,6 +13208,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11572,13 +13216,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:01:06"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11586,6 +13232,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11593,13 +13240,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:02:19"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11607,6 +13256,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11614,13 +13264,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:06:58"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11628,6 +13280,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11635,6 +13288,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11642,6 +13296,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11649,6 +13304,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11656,13 +13312,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:07:51"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11670,6 +13328,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -11677,6 +13336,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -11684,13 +13344,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Klopp message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:16:19"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11698,13 +13360,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Es message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:23:43"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -11712,13 +13376,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:31:09"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11726,6 +13392,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Hoy message",
     "name": "Person 2",
     "announcement": false,
@@ -11733,6 +13400,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -11740,6 +13408,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11747,6 +13416,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11754,13 +13424,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:38:12"
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11768,6 +13440,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -11775,6 +13448,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -11782,6 +13456,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11789,6 +13464,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11796,6 +13472,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -11803,13 +13480,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-05-2019",
+    "year": "2019",
     "message": "Siuuuuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:43:37"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11817,6 +13496,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11824,13 +13504,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "A message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:15:39"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "My message",
     "name": "Person 2",
     "announcement": false,
@@ -11838,6 +13520,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "🥚🥚🥚🥚🥚 message",
     "name": "Person 2",
     "announcement": false,
@@ -11845,6 +13528,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11852,6 +13536,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Estos message",
     "name": "Person 2",
     "announcement": false,
@@ -11859,6 +13544,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -11866,6 +13552,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -11873,20 +13560,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:17:18"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:17:34"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11894,6 +13584,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -11901,13 +13592,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "El message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:18:28"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Shorent message",
     "name": "Person 2",
     "announcement": false,
@@ -11915,6 +13608,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "God message",
     "name": "Person 2",
     "announcement": false,
@@ -11922,13 +13616,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:18:40"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -11936,6 +13632,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11943,6 +13640,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11950,6 +13648,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -11957,6 +13656,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Ssiuu message",
     "name": "Person 2",
     "announcement": false,
@@ -11964,6 +13664,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -11971,20 +13672,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:20:52"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Toda message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:20:59"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -11992,6 +13696,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -11999,6 +13704,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12006,6 +13712,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12013,6 +13720,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -12020,13 +13728,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:47:35"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12034,13 +13744,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:50:51"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12048,13 +13760,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:51:05"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12062,6 +13776,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12069,6 +13784,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12076,6 +13792,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12083,6 +13800,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12090,6 +13808,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12097,6 +13816,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12104,20 +13824,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:52:47"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:53:48"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12125,6 +13848,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12132,6 +13856,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12139,6 +13864,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12146,13 +13872,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:54:46"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12160,6 +13888,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -12167,13 +13896,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:56:28"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12181,6 +13912,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12188,6 +13920,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12195,6 +13928,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12202,13 +13936,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:58:40"
   },
   {
     "date": "08-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12216,6 +13952,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12223,34 +13960,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:00:34"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:00:49"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:01:01"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:03:44"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12258,6 +14000,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -12265,13 +14008,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:06:15"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12279,6 +14024,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Mejo message",
     "name": "Person 2",
     "announcement": false,
@@ -12286,6 +14032,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Ahí message",
     "name": "Person 2",
     "announcement": false,
@@ -12293,34 +14040,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:07:03"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:07:32"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:07:42"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:09:02"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12328,13 +14080,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:24:56"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12342,13 +14096,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:28:09"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Solo message",
     "name": "Person 2",
     "announcement": false,
@@ -12356,6 +14112,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12363,6 +14120,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12370,6 +14128,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12377,13 +14136,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:31:44"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12391,41 +14152,47 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:32:19"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:32:24"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:32:34"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Hahha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:33:02"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Malaso message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:33:07"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12433,13 +14200,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:35:20"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12447,6 +14216,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12454,6 +14224,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -12461,6 +14232,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -12468,13 +14240,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:40:25"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12482,13 +14256,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:42:58"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -12496,6 +14272,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -12503,6 +14280,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Mañana message",
     "name": "Person 2",
     "announcement": false,
@@ -12510,6 +14288,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12517,6 +14296,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12524,13 +14304,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Haha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:21:08"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -12538,6 +14320,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Termin message",
     "name": "Person 2",
     "announcement": false,
@@ -12545,6 +14328,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12552,6 +14336,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12559,6 +14344,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -12566,6 +14352,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -12573,6 +14360,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Ni message",
     "name": "Person 2",
     "announcement": false,
@@ -12580,6 +14368,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "Estará message",
     "name": "Person 2",
     "announcement": false,
@@ -12587,13 +14376,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:29:54"
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -12601,6 +14392,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -12608,6 +14400,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12615,6 +14408,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12622,6 +14416,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "ssiiuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -12629,6 +14424,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "09-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12636,13 +14432,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "07:45:43"
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "🤣🤣🤣🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -12650,20 +14448,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Buenaso message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:24:45"
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:24:55"
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12671,6 +14472,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -12678,6 +14480,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12685,6 +14488,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -12692,6 +14496,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Too message",
     "name": "Person 2",
     "announcement": false,
@@ -12699,6 +14504,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12706,20 +14512,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:48:04"
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:48:12"
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -12727,6 +14536,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12734,6 +14544,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -12741,6 +14552,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Este message",
     "name": "Person 2",
     "announcement": false,
@@ -12748,6 +14560,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12755,6 +14568,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12762,27 +14576,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:51:22"
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "🤣🤣🤣🤣 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:54:02"
   },
   {
     "date": "10-05-2019",
+    "year": "2019",
     "message": "Mejor message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:54:19"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -12790,6 +14608,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12797,20 +14616,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:19:00"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:19:18"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -12818,13 +14640,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Ma message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:19:56"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12832,27 +14656,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:20:14"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:20:25"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Todos message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:20:38"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12860,20 +14688,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:20:59"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:21:09"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Steph message",
     "name": "Person 2",
     "announcement": false,
@@ -12881,6 +14712,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12888,6 +14720,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -12895,6 +14728,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -12902,6 +14736,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12909,6 +14744,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -12916,6 +14752,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12923,13 +14760,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Van message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:27:07"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "En message",
     "name": "Person 2",
     "announcement": false,
@@ -12937,6 +14776,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12944,6 +14784,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12951,6 +14792,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12958,6 +14800,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12965,6 +14808,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -12972,6 +14816,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12979,6 +14824,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -12986,6 +14832,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -12993,13 +14840,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:51:43"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Seguraz message",
     "name": "Person 2",
     "announcement": false,
@@ -13007,6 +14856,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -13014,20 +14864,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Eurotri message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:52:00"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Best message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:52:04"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13035,13 +14888,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:54:09"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13049,6 +14904,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -13056,6 +14912,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Tienen message",
     "name": "Person 2",
     "announcement": false,
@@ -13063,6 +14920,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Como message",
     "name": "Person 2",
     "announcement": false,
@@ -13070,6 +14928,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13077,6 +14936,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13084,20 +14944,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:57:30"
   },
   {
     "date": "12-05-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:05:30"
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -13105,6 +14968,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13112,6 +14976,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Hahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -13119,13 +14984,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:37:37"
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Debería message",
     "name": "Person 2",
     "announcement": false,
@@ -13133,6 +15000,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -13140,6 +15008,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13147,6 +15016,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -13154,6 +15024,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Por message",
     "name": "Person 2",
     "announcement": false,
@@ -13161,6 +15032,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13168,6 +15040,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -13175,13 +15048,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "En message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:29:04"
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13189,6 +15064,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13196,6 +15072,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13203,6 +15080,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13210,6 +15088,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13217,6 +15096,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13224,6 +15104,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13231,6 +15112,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13238,13 +15120,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:31:54"
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -13252,6 +15136,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -13259,6 +15144,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -13266,6 +15152,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13273,6 +15160,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13280,6 +15168,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13287,6 +15176,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -13294,6 +15184,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -13301,6 +15192,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -13308,20 +15200,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:44:05"
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Nin message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:44:09"
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Decile message",
     "name": "Person 2",
     "announcement": false,
@@ -13329,6 +15224,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13336,6 +15232,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13343,13 +15240,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:49:22"
   },
   {
     "date": "13-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -13357,20 +15256,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:09:36"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:09:59"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -13378,13 +15280,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Bueno message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:11:29"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "También message",
     "name": "Person 2",
     "announcement": false,
@@ -13392,13 +15296,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Deciles message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:11:43"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13406,6 +15312,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Hahahahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -13413,6 +15320,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -13420,6 +15328,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Son message",
     "name": "Person 2",
     "announcement": false,
@@ -13427,13 +15336,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Ssiuuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:13:41"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13441,6 +15352,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13448,6 +15360,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13455,6 +15368,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -13462,6 +15376,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13469,13 +15384,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:39:22"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13483,6 +15400,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13490,6 +15408,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13497,13 +15416,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Hahahahahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:09:28"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Pur message",
     "name": "Person 2",
     "announcement": false,
@@ -13511,13 +15432,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:09:40"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13525,6 +15448,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -13532,6 +15456,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13539,6 +15464,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Aaaahhh message",
     "name": "Person 2",
     "announcement": false,
@@ -13546,6 +15472,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -13553,13 +15480,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:14:49"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13567,6 +15496,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -13574,6 +15504,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "O message",
     "name": "Person 2",
     "announcement": false,
@@ -13581,6 +15512,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13588,6 +15520,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13595,6 +15528,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13602,6 +15536,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "🤣🤣🤣🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -13609,6 +15544,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Sssiuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -13616,6 +15552,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13623,6 +15560,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13630,6 +15568,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -13637,13 +15576,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:57:30"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Un message",
     "name": "Person 2",
     "announcement": false,
@@ -13651,6 +15592,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -13658,13 +15600,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:03:04"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13672,20 +15616,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Es message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:08:42"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "Ashudam message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:08:46"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13693,13 +15640,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:19:50"
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13707,6 +15656,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13714,6 +15664,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13721,13 +15672,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:20:46"
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13735,6 +15688,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13742,20 +15696,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:22:10"
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:25:37"
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -13763,6 +15720,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Cerdaz message",
     "name": "Person 2",
     "announcement": false,
@@ -13770,6 +15728,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -13777,6 +15736,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -13784,6 +15744,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13791,6 +15752,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13798,6 +15760,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13805,6 +15768,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13812,6 +15776,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "hahhaha message",
     "name": "Person 2",
     "announcement": false,
@@ -13819,13 +15784,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:32:43"
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13833,6 +15800,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13840,13 +15808,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:35:16"
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Hahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -13854,6 +15824,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Eso message",
     "name": "Person 2",
     "announcement": false,
@@ -13861,13 +15832,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Me message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:00:05"
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Dejame message",
     "name": "Person 2",
     "announcement": false,
@@ -13875,6 +15848,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13882,6 +15856,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13889,6 +15864,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -13896,13 +15872,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:03:34"
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -13910,6 +15888,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -13917,13 +15896,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-05-2019",
+    "year": "2019",
     "message": "Deciles message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:09:13"
   },
   {
     "date": "17-05-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -13931,6 +15912,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -13938,13 +15920,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-05-2019",
+    "year": "2019",
     "message": "Malaz message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:19:28"
   },
   {
     "date": "17-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13952,6 +15936,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13959,13 +15944,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:30:07"
   },
   {
     "date": "17-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -13973,6 +15960,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -13980,13 +15968,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:14:30"
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -13994,6 +15984,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14001,20 +15992,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:14:47"
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:38:32"
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14022,6 +16016,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14029,6 +16024,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14036,13 +16032,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "Judirrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:22:48"
   },
   {
     "date": "18-05-2019",
+    "year": "2019",
     "message": "Aquí message",
     "name": "Person 2",
     "announcement": false,
@@ -14050,6 +16048,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14057,6 +16056,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14064,6 +16064,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14071,6 +16072,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14078,6 +16080,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14085,13 +16088,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:02:21"
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14099,6 +16104,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -14106,6 +16112,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -14113,6 +16120,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -14120,6 +16128,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -14127,20 +16136,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:36:27"
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:37:24"
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -14148,6 +16160,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -14155,13 +16168,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:20:25"
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14169,6 +16184,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14176,6 +16192,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14183,6 +16200,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14190,6 +16208,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14197,6 +16216,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -14204,6 +16224,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-05-2019",
+    "year": "2019",
     "message": "Hecho message",
     "name": "Person 2",
     "announcement": false,
@@ -14211,6 +16232,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Buenaso message",
     "name": "Person 2",
     "announcement": false,
@@ -14218,20 +16240,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "https message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:00:28"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "#stopbeingaslave message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:00:38"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14239,6 +16264,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14246,13 +16272,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:17:24"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Siiuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -14260,6 +16288,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -14267,6 +16296,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "O message",
     "name": "Person 2",
     "announcement": false,
@@ -14274,48 +16304,55 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Vosotros message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:01:17"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "No message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:01:21"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Como message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:01:43"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:37:07"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:37:29"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:38:46"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -14323,6 +16360,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -14330,6 +16368,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -14337,27 +16376,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:42:06"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Nada message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:42:32"
   },
   {
     "date": "20-05-2019",
+    "year": "2019",
     "message": "Buenaso message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:42:36"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -14365,13 +16408,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:23:19"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14379,13 +16424,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:24:02"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14393,6 +16440,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -14400,6 +16448,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14407,6 +16456,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14414,20 +16464,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:12:10"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:15:20"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "Hahhah message",
     "name": "Person 2",
     "announcement": false,
@@ -14435,6 +16488,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -14442,13 +16496,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:11:31"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14456,20 +16512,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:17:06"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:17:18"
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14477,6 +16536,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-05-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -14484,6 +16544,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14491,6 +16552,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14498,6 +16560,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14505,6 +16568,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -14512,6 +16576,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -14519,6 +16584,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "Ahora message",
     "name": "Person 2",
     "announcement": false,
@@ -14526,6 +16592,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14533,6 +16600,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14540,6 +16608,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14547,27 +16616,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:26:32"
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:35:31"
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "Vas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:35:42"
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14575,6 +16648,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14582,6 +16656,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -14589,6 +16664,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -14596,13 +16672,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:39:41"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14610,13 +16688,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:40:16"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -14624,6 +16704,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -14631,13 +16712,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "Sssiuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:46:21"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -14645,6 +16728,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -14652,6 +16736,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14659,13 +16744,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "Hahahh message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:37:53"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "Vaya message",
     "name": "Person 2",
     "announcement": false,
@@ -14673,13 +16760,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:00:05"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -14687,13 +16776,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:00:26"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14701,13 +16792,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:05:14"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14715,13 +16808,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:06:10"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14729,6 +16824,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -14736,13 +16832,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:07:16"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14750,6 +16848,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14757,6 +16856,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14764,6 +16864,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14771,20 +16872,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "Judirrrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:36:33"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:37:06"
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14792,6 +16896,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -14799,6 +16904,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -14806,6 +16912,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14813,6 +16920,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14820,20 +16928,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "00:44:54"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "00:44:54"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -14841,6 +16952,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14848,6 +16960,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14855,27 +16968,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:46:34"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:46:40"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:46:48"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14883,6 +17000,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14890,6 +17008,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14897,13 +17016,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:47:21"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14911,6 +17032,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14918,6 +17040,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14925,6 +17048,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14932,6 +17056,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14939,6 +17064,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14946,13 +17072,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "02:20:24"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -14960,13 +17088,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "02:20:31"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14974,6 +17104,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -14981,13 +17112,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "02:21:56"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -14995,6 +17128,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -15002,6 +17136,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -15009,6 +17144,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15016,20 +17152,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:11:33"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:12:09"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -15037,6 +17176,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -15044,6 +17184,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -15051,13 +17192,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:15:15"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -15065,6 +17208,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -15072,13 +17216,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:48:37"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15086,6 +17232,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -15093,13 +17240,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "El message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:33:27"
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -15107,6 +17256,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -15114,13 +17264,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:43:36"
   },
   {
     "date": "27-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -15128,6 +17280,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-05-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -15135,6 +17288,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-05-2019",
+    "year": "2019",
     "message": "También message",
     "name": "Person 2",
     "announcement": false,
@@ -15142,13 +17296,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "23:55:58"
   },
   {
     "date": "27-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -15156,13 +17312,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-05-2019",
+    "year": "2019",
     "message": "Judirrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:58:50"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -15170,41 +17328,47 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:57:19"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:58:37"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:58:59"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:06:56"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:07:09"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -15212,6 +17376,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -15219,13 +17384,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "En message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:55:29"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -15233,20 +17400,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:21:15"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:15:04"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15254,6 +17424,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15261,20 +17432,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:16:18"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:17:57"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Ssiiiu message",
     "name": "Person 2",
     "announcement": false,
@@ -15282,13 +17456,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Mani message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:57:14"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -15296,6 +17472,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15303,13 +17480,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:33:38"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15317,6 +17496,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15324,13 +17504,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:34:49"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -15338,6 +17520,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -15345,6 +17528,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -15352,6 +17536,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -15359,6 +17544,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15366,6 +17552,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15373,6 +17560,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15380,13 +17568,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:42:23"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -15394,6 +17584,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Un message",
     "name": "Person 2",
     "announcement": false,
@@ -15401,6 +17592,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15408,6 +17600,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15415,6 +17608,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15422,13 +17616,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:23:06"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -15436,6 +17632,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -15443,20 +17640,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Siempre message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:23:27"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:32:05"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15464,6 +17664,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -15471,6 +17672,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -15478,27 +17680,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "messageleague teams",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:34:50"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:34:53"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:38:20"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Malaso message",
     "name": "Person 2",
     "announcement": false,
@@ -15506,13 +17712,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:38:25"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15520,6 +17728,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15527,6 +17736,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15534,6 +17744,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15541,6 +17752,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15548,6 +17760,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15555,6 +17768,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -15562,6 +17776,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15569,6 +17784,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Visca message",
     "name": "Person 2",
     "announcement": false,
@@ -15576,6 +17792,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15583,13 +17800,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:52:21"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15597,6 +17816,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -15604,6 +17824,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -15611,6 +17832,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15618,6 +17840,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15625,6 +17848,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -15632,20 +17856,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:33"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Tienes message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:40"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15653,6 +17880,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "messagete enviamos gratis 1 lifetime package de viagra pills. message",
     "name": "Person 3",
     "announcement": false,
@@ -15660,6 +17888,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15667,6 +17896,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -15674,6 +17904,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Eso message",
     "name": "Person 2",
     "announcement": false,
@@ -15681,6 +17912,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15688,13 +17920,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:09:31"
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15702,6 +17936,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -15709,13 +17944,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-05-2019",
+    "year": "2019",
     "message": "Eso message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:17:20"
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15723,6 +17960,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15730,20 +17968,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:20:17"
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:27:03"
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -15751,6 +17992,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -15758,6 +18000,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -15765,13 +18008,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-05-2019",
+    "year": "2019",
     "message": "Huangdong message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:28:55"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15779,13 +18024,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:19:26"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15793,13 +18040,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:24:03"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -15807,6 +18056,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -15814,6 +18064,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -15821,20 +18072,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Vamos message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:05:53"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "17:08:06"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Buensdo message",
     "name": "Person 2",
     "announcement": false,
@@ -15842,6 +18096,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15849,6 +18104,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15856,6 +18112,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -15863,6 +18120,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -15870,6 +18128,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Lo message",
     "name": "Person 2",
     "announcement": false,
@@ -15877,6 +18136,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Cuando message",
     "name": "Person 2",
     "announcement": false,
@@ -15884,13 +18144,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Mani message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:14:42"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15898,6 +18160,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15905,6 +18168,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15912,6 +18176,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Buenaaaaas message",
     "name": "Person 2",
     "announcement": false,
@@ -15919,6 +18184,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -15926,6 +18192,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15933,6 +18200,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -15940,6 +18208,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -15947,6 +18216,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15954,6 +18224,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15961,6 +18232,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15968,13 +18240,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Buenas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:04:26"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Hay message",
     "name": "Person 2",
     "announcement": false,
@@ -15982,6 +18256,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -15989,6 +18264,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -15996,6 +18272,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16003,20 +18280,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:54:59"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:57:12"
   },
   {
     "date": "30-05-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -16024,6 +18304,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -16031,6 +18312,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -16038,6 +18320,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16045,6 +18328,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -16052,6 +18336,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Pasamos message",
     "name": "Person 2",
     "announcement": false,
@@ -16059,6 +18344,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -16066,6 +18352,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16073,6 +18360,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16080,6 +18368,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Podemos message",
     "name": "Person 2",
     "announcement": false,
@@ -16087,6 +18376,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -16094,6 +18384,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Pasamos message",
     "name": "Person 2",
     "announcement": false,
@@ -16101,6 +18392,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16108,13 +18400,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:52:10"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -16122,27 +18416,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Es message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:53:38"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:52:05"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:52:05"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -16150,13 +18448,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:55:37"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -16164,6 +18464,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -16171,6 +18472,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16178,13 +18480,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:03:14"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16192,6 +18496,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16199,6 +18504,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16206,6 +18512,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -16213,6 +18520,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -16220,6 +18528,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Ma message",
     "name": "Person 2",
     "announcement": false,
@@ -16227,6 +18536,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Sssiuu message",
     "name": "Person 2",
     "announcement": false,
@@ -16234,6 +18544,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16241,6 +18552,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16248,20 +18560,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:26:57"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:29:20"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16269,6 +18584,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -16276,6 +18592,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -16283,6 +18600,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -16290,6 +18608,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Otla message",
     "name": "Person 2",
     "announcement": false,
@@ -16297,6 +18616,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16304,6 +18624,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16311,13 +18632,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:48:02"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -16325,6 +18648,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16332,13 +18656,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Seguro message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:48:24"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16346,13 +18672,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:48:44"
   },
   {
     "date": "31-05-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -16360,13 +18688,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:19:56"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16374,6 +18704,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -16381,6 +18712,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16388,6 +18720,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16395,6 +18728,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16402,6 +18736,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16409,6 +18744,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16416,6 +18752,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16423,13 +18760,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "03:14:14"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16437,13 +18776,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Suuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:55:42"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Best message",
     "name": "Person 2",
     "announcement": false,
@@ -16451,6 +18792,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -16458,20 +18800,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:51:12"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Buenasaassoo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:51:29"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Entonces message",
     "name": "Person 2",
     "announcement": false,
@@ -16479,27 +18824,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "O message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:46:35"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:46:39"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:46:45"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Shuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -16507,6 +18856,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16514,20 +18864,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:47:39"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:47:44"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Dentro message",
     "name": "Person 2",
     "announcement": false,
@@ -16535,27 +18888,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:47:56"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Te message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:48:01"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:48:27"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "O message",
     "name": "Person 2",
     "announcement": false,
@@ -16563,6 +18920,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Buenaso message",
     "name": "Person 2",
     "announcement": false,
@@ -16570,6 +18928,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16577,6 +18936,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16584,6 +18944,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16591,13 +18952,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "11:37:30"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16605,6 +18968,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16612,6 +18976,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -16619,6 +18984,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Work message",
     "name": "Person 2",
     "announcement": false,
@@ -16626,20 +18992,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Ok message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:40:29"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:52:12"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -16647,6 +19016,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -16654,6 +19024,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -16661,6 +19032,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16668,6 +19040,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16675,34 +19048,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Decime message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:00:43"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:03:45"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:03:54"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:04:00"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -16710,6 +19088,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16717,6 +19096,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16724,6 +19104,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -16731,6 +19112,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -16738,6 +19120,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16745,13 +19128,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "16:03:10"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16759,20 +19144,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:06:31"
   },
   {
     "date": "01-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:06:32"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -16780,6 +19168,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16787,6 +19176,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16794,20 +19184,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:18:07"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:20:06"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -16815,6 +19208,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16822,6 +19216,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16829,13 +19224,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:01:13"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "Alquila message",
     "name": "Person 2",
     "announcement": false,
@@ -16843,6 +19240,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16850,13 +19248,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "Judirr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:09:16"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16864,27 +19264,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:10:38"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:10:40"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:10:58"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16892,13 +19296,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:11:28"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -16906,20 +19312,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:04:11"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:47:34"
   },
   {
     "date": "02-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16927,6 +19336,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -16934,6 +19344,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -16941,20 +19352,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:38:09"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:41:59"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Hahahajah message",
     "name": "Person 2",
     "announcement": false,
@@ -16962,20 +19376,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Buenaso message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:50:14"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Es message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:50:22"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -16983,13 +19400,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Buuuaaaaaa message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:39:37"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Buenaaaaaso message",
     "name": "Person 2",
     "announcement": false,
@@ -16997,20 +19416,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Más message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:39:56"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:56:15"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17018,6 +19440,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17025,6 +19448,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17032,6 +19456,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17039,6 +19464,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17046,13 +19472,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:01:24"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Hahh message",
     "name": "Person 2",
     "announcement": false,
@@ -17060,6 +19488,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -17067,48 +19496,55 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:07:06"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Es message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:19:55"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Lo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:20:21"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:24:46"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:25:56"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:58:11"
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Hhaha message",
     "name": "Person 2",
     "announcement": false,
@@ -17116,6 +19552,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "Son message",
     "name": "Person 2",
     "announcement": false,
@@ -17123,6 +19560,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-06-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -17130,6 +19568,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17137,6 +19576,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -17144,20 +19584,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:02:28"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Clar message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:02:38"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "En message",
     "name": "Person 2",
     "announcement": false,
@@ -17165,6 +19608,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17172,6 +19616,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17179,27 +19624,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:15:28"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:18:43"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:18:45"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17207,6 +19656,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Hahahha message",
     "name": "Person 2",
     "announcement": false,
@@ -17214,6 +19664,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "1500 message",
     "name": "Person 2",
     "announcement": false,
@@ -17221,27 +19672,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Month message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:43:24"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Con message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:43:54"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:46:00"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17249,6 +19704,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -17256,27 +19712,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:46:59"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "🤣 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:47:20"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:48:02"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Sssiiuuuuuuuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -17284,6 +19744,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Me message",
     "name": "Person 2",
     "announcement": false,
@@ -17291,6 +19752,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "God message",
     "name": "Person 2",
     "announcement": false,
@@ -17298,55 +19760,63 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Vamos message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:10:46"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:31:36"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:31:49"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:31:56"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:32:06"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:46:06"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:46:14"
   },
   {
     "date": "04-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -17354,6 +19824,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -17361,6 +19832,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Otla message",
     "name": "Person 2",
     "announcement": false,
@@ -17368,6 +19840,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -17375,13 +19848,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Brazilian message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:13:54"
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17389,13 +19864,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:20:57"
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17403,6 +19880,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -17410,27 +19888,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "200 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:23:46"
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:36:18"
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:26:31"
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Ahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -17438,6 +19920,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -17445,6 +19928,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -17452,6 +19936,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -17459,6 +19944,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
+    "message": "message",
+    "name": "Person 1",
+    "announcement": false,
+    "time": "21:28:48"
+  },
+  {
+    "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17466,13 +19960,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
-    "message": "message",
-    "name": "Person 3",
-    "announcement": false,
-    "time": "21:28:48"
-  },
-  {
-    "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17480,13 +19968,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:29:06"
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17494,6 +19984,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -17501,6 +19992,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "Hay message",
     "name": "Person 2",
     "announcement": false,
@@ -17508,6 +20000,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "De message",
     "name": "Person 2",
     "announcement": false,
@@ -17515,6 +20008,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17522,6 +20016,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -17529,6 +20024,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17536,13 +20032,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:51:57"
   },
   {
     "date": "06-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17550,20 +20048,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:45:41"
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:45:42"
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17571,6 +20072,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17578,6 +20080,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "Ahahahha message",
     "name": "Person 2",
     "announcement": false,
@@ -17585,6 +20088,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "Venite message",
     "name": "Person 2",
     "announcement": false,
@@ -17592,6 +20096,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17599,6 +20104,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17606,6 +20112,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17613,6 +20120,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -17620,6 +20128,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -17627,6 +20136,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "En message",
     "name": "Person 2",
     "announcement": false,
@@ -17634,13 +20144,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:23:21"
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17655,6 +20167,7 @@ export const demoData: IMessageData[] = [
   null,
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "Hahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -17662,6 +20175,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "Alvalo message",
     "name": "Person 2",
     "announcement": false,
@@ -17669,20 +20183,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "Dirà message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:44:19"
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "13:55:15"
   },
   {
     "date": "07-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17690,6 +20207,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17697,6 +20215,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17704,20 +20223,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "04:49:44"
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "Hahha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:55:32"
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -17725,6 +20247,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17732,6 +20255,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17739,6 +20263,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -17746,6 +20271,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17753,6 +20279,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17760,13 +20287,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:36:00"
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -17774,6 +20303,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17781,6 +20311,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17788,6 +20319,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17795,13 +20327,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:49:10"
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17809,13 +20343,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "08-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:49:26"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -17823,6 +20359,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -17830,13 +20367,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:23:22"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Decile message",
     "name": "Person 2",
     "announcement": false,
@@ -17844,6 +20383,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17851,6 +20391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17858,6 +20399,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17865,6 +20407,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17872,6 +20415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -17879,13 +20423,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Jaja message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:21:48"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -17893,6 +20439,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17900,6 +20447,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17907,13 +20455,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:10:27"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -17921,34 +20471,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:23:14"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:23:57"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:24:39"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:24:59"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Ahhh message",
     "name": "Person 2",
     "announcement": false,
@@ -17956,6 +20511,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -17963,6 +20519,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "En message",
     "name": "Person 2",
     "announcement": false,
@@ -17970,6 +20527,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17977,6 +20535,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17984,6 +20543,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17991,6 +20551,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -17998,6 +20559,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18005,6 +20567,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -18012,6 +20575,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -18019,6 +20583,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18026,13 +20591,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:30:07"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18040,6 +20607,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18047,6 +20615,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -18054,6 +20623,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18061,6 +20631,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18068,13 +20639,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:36:01"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "The message",
     "name": "Person 2",
     "announcement": false,
@@ -18082,6 +20655,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18089,6 +20663,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18096,13 +20671,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "20:56:30"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -18110,6 +20687,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Quedate message",
     "name": "Person 2",
     "announcement": false,
@@ -18117,6 +20695,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18124,20 +20703,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:02:33"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:03:28"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -18145,6 +20727,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -18152,13 +20735,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:25:05"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -18166,6 +20751,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18173,6 +20759,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18180,20 +20767,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:46:28"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:46:42"
   },
   {
     "date": "10-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18201,6 +20791,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Buaaaa message",
     "name": "Person 2",
     "announcement": false,
@@ -18208,6 +20799,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Malazo message",
     "name": "Person 2",
     "announcement": false,
@@ -18215,6 +20807,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -18222,41 +20815,47 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:37:04"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:37:16"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:37:25"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:37:38"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:37:41"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -18264,13 +20863,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:39:25"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18278,6 +20879,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -18285,6 +20887,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -18292,6 +20895,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18299,6 +20903,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18306,6 +20911,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -18313,6 +20919,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18320,6 +20927,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -18327,6 +20935,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -18334,6 +20943,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18341,6 +20951,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -18348,6 +20959,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18355,6 +20967,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Buena message",
     "name": "Person 2",
     "announcement": false,
@@ -18362,6 +20975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -18369,13 +20983,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:26:15"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18383,13 +20999,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:26:48"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Ya message",
     "name": "Person 2",
     "announcement": false,
@@ -18397,13 +21015,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "No message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:34:50"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Seguro message",
     "name": "Person 2",
     "announcement": false,
@@ -18411,6 +21031,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "O message",
     "name": "Person 2",
     "announcement": false,
@@ -18418,6 +21039,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18425,6 +21047,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18432,6 +21055,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18439,6 +21063,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -18446,20 +21071,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:40:03"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:41:00"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18467,13 +21095,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:03:48"
   },
   {
     "date": "11-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18481,6 +21111,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Fuck message",
     "name": "Person 2",
     "announcement": false,
@@ -18488,6 +21119,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -18495,6 +21127,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Slave message",
     "name": "Person 2",
     "announcement": false,
@@ -18502,6 +21135,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18509,6 +21143,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18516,6 +21151,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18523,6 +21159,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18530,6 +21167,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18537,20 +21175,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:52:21"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:52:43"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18558,13 +21199,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:52:52"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Hahahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -18572,13 +21215,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Malazo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:34:58"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18586,6 +21231,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18593,6 +21239,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18600,20 +21247,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:50:35"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:50:53"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18621,13 +21271,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:51:57"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Ese message",
     "name": "Person 2",
     "announcement": false,
@@ -18635,13 +21287,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Lo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:52:13"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18649,13 +21303,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:07:49"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -18663,13 +21319,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Malazo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:07:58"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -18677,6 +21335,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18684,6 +21343,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Buaaaa message",
     "name": "Person 2",
     "announcement": false,
@@ -18691,6 +21351,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -18698,6 +21359,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -18705,6 +21367,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18712,13 +21375,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:14:24"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18726,6 +21391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Hhaha message",
     "name": "Person 2",
     "announcement": false,
@@ -18733,6 +21399,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Seguro message",
     "name": "Person 2",
     "announcement": false,
@@ -18740,6 +21407,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18747,6 +21415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18754,6 +21423,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18761,6 +21431,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Hahahh message",
     "name": "Person 2",
     "announcement": false,
@@ -18768,6 +21439,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -18775,6 +21447,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18782,13 +21455,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:03:30"
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -18796,6 +21471,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "12-06-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -18803,13 +21479,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Manifagdon message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:04:49"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Hay message",
     "name": "Person 2",
     "announcement": false,
@@ -18817,27 +21495,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:01:51"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:02:49"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:03:21"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18845,6 +21527,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18852,6 +21535,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -18859,13 +21543,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:04:58"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18873,6 +21559,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -18880,6 +21567,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -18887,6 +21575,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18894,6 +21583,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18901,6 +21591,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18908,13 +21599,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:06:53"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18922,6 +21615,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -18929,6 +21623,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -18936,13 +21631,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:08:42"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Best message",
     "name": "Person 2",
     "announcement": false,
@@ -18950,6 +21647,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18957,13 +21655,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:10:42"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -18971,6 +21671,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -18978,6 +21679,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Me message",
     "name": "Person 2",
     "announcement": false,
@@ -18985,6 +21687,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "El message",
     "name": "Person 2",
     "announcement": false,
@@ -18992,20 +21695,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:13:42"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Para message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:13:50"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Le message",
     "name": "Person 2",
     "announcement": false,
@@ -19013,6 +21719,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "@491795922255 message",
     "name": "Person 2",
     "announcement": false,
@@ -19020,6 +21727,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19027,6 +21735,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19034,6 +21743,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -19041,6 +21751,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Me message",
     "name": "Person 2",
     "announcement": false,
@@ -19048,6 +21759,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -19055,13 +21767,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:02:13"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19069,13 +21783,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Así message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:10:43"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19083,13 +21799,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:18:54"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19097,6 +21815,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -19104,6 +21823,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -19111,13 +21831,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:20:00"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19125,6 +21847,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19132,6 +21855,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19139,6 +21863,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19146,6 +21871,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19153,6 +21879,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -19160,6 +21887,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Hahhahah message",
     "name": "Person 2",
     "announcement": false,
@@ -19167,13 +21895,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:40:20"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -19181,20 +21911,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:43:51"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:44:10"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -19202,6 +21935,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -19209,6 +21943,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Hippy message",
     "name": "Person 2",
     "announcement": false,
@@ -19216,20 +21951,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:44:37"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Judirr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:44:44"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Más message",
     "name": "Person 2",
     "announcement": false,
@@ -19237,6 +21975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Salgo message",
     "name": "Person 2",
     "announcement": false,
@@ -19244,13 +21983,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:50:27"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19258,6 +21999,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -19265,6 +22007,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19272,6 +22015,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19279,6 +22023,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19286,6 +22031,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19293,6 +22039,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Hahha message",
     "name": "Person 2",
     "announcement": false,
@@ -19300,6 +22047,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -19307,6 +22055,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Le message",
     "name": "Person 2",
     "announcement": false,
@@ -19314,6 +22063,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -19321,6 +22071,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19328,6 +22079,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19335,6 +22087,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -19342,13 +22095,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Eso message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:59:59"
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Hay message",
     "name": "Person 2",
     "announcement": false,
@@ -19356,6 +22111,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19363,6 +22119,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19370,6 +22127,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19377,6 +22135,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "13-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -19384,6 +22143,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -19391,6 +22151,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19398,6 +22159,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19405,13 +22167,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "05:49:56"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19419,13 +22183,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "05:52:01"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -19433,13 +22199,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:39:43"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19447,6 +22215,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19454,6 +22223,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19461,6 +22231,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19468,13 +22239,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:42:26"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19482,6 +22255,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -19489,27 +22263,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:58:51"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:59:00"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:26:47"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19517,6 +22295,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19524,13 +22303,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:26:58"
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19538,6 +22319,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19545,6 +22327,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19552,13 +22335,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "14-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "14:50:37"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19566,6 +22351,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -19573,6 +22359,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Ah message",
     "name": "Person 2",
     "announcement": false,
@@ -19580,6 +22367,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -19587,6 +22375,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19594,6 +22383,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19601,6 +22391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19608,6 +22399,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19615,6 +22407,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19622,6 +22415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19629,13 +22423,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Buenaaasoo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:30:38"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19643,13 +22439,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:38:38"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19657,13 +22455,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:39:11"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -19671,6 +22471,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -19678,6 +22479,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Classic message",
     "name": "Person 2",
     "announcement": false,
@@ -19685,6 +22487,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -19692,6 +22495,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Sería message",
     "name": "Person 2",
     "announcement": false,
@@ -19699,6 +22503,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19706,6 +22511,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19713,6 +22519,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19720,20 +22527,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:43:38"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:45:19"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hay message",
     "name": "Person 2",
     "announcement": false,
@@ -19741,6 +22551,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -19748,13 +22559,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:21:13"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19762,6 +22575,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -19769,6 +22583,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19776,6 +22591,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19783,6 +22599,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -19790,13 +22607,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Que message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:52:20"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19804,13 +22623,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:04:12"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19818,20 +22639,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:17:11"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:17:16"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -19839,6 +22663,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19846,6 +22671,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19853,27 +22679,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:20:36"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:37:32"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Un message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:37:36"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -19881,6 +22711,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -19888,6 +22719,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -19895,6 +22727,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Estos message",
     "name": "Person 2",
     "announcement": false,
@@ -19902,6 +22735,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19909,6 +22743,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19916,6 +22751,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Voy message",
     "name": "Person 2",
     "announcement": false,
@@ -19923,6 +22759,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19930,6 +22767,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Qatar message",
     "name": "Person 2",
     "announcement": false,
@@ -19937,13 +22775,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:53:47"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19951,6 +22791,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -19958,6 +22799,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19965,6 +22807,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19972,6 +22815,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -19979,6 +22823,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19986,6 +22831,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -19993,6 +22839,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20000,6 +22847,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20007,6 +22855,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20014,13 +22863,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:55:24"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20028,20 +22879,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Nada message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:55:37"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Son message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:55:41"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Excepto message",
     "name": "Person 2",
     "announcement": false,
@@ -20049,6 +22903,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20056,6 +22911,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20063,13 +22919,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:59:10"
   },
   {
     "date": "16-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -20077,6 +22935,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20084,6 +22943,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20091,13 +22951,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:23:37"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20105,6 +22967,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20112,6 +22975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20119,6 +22983,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20126,6 +22991,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20133,13 +22999,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:32:49"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20147,6 +23015,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20154,6 +23023,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20161,6 +23031,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20168,13 +23039,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:40:55"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20182,6 +23055,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20189,6 +23063,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20196,13 +23071,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "00:47:11"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20210,6 +23087,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20217,6 +23095,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20224,6 +23103,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20231,20 +23111,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:53:43"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:53:49"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -20252,13 +23135,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Malazo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "07:06:01"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Buenaso message",
     "name": "Person 2",
     "announcement": false,
@@ -20266,6 +23151,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -20273,6 +23159,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -20280,6 +23167,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20287,6 +23175,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20294,6 +23183,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -20301,20 +23191,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:51:17"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Sho message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:25:21"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "My message",
     "name": "Person 2",
     "announcement": false,
@@ -20322,13 +23215,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:34:51"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20336,27 +23231,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Jajaj message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:14:31"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "18:19:26"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "A message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:20:43"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Best message",
     "name": "Person 2",
     "announcement": false,
@@ -20364,6 +23263,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -20371,6 +23271,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20378,6 +23279,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20385,6 +23287,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20392,20 +23295,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:03:32"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:03:33"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20413,6 +23319,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20420,6 +23327,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20427,6 +23335,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Hahahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -20434,6 +23343,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20441,13 +23351,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Alquila message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:04:15"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Seguro message",
     "name": "Person 2",
     "announcement": false,
@@ -20455,6 +23367,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20462,13 +23375,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:04:58"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20476,6 +23391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -20483,6 +23399,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -20490,6 +23407,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20497,6 +23415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Carazo message",
     "name": "Person 2",
     "announcement": false,
@@ -20504,6 +23423,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20511,6 +23431,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20518,6 +23439,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20525,13 +23447,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Judir message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:07:37"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -20539,6 +23463,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20546,13 +23471,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:17:13"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20560,6 +23487,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -20567,6 +23495,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Best message",
     "name": "Person 2",
     "announcement": false,
@@ -20574,20 +23503,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:19:42"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:11:52"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20595,6 +23527,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -20602,6 +23535,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Tendrás message",
     "name": "Person 2",
     "announcement": false,
@@ -20609,13 +23543,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:25:00"
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20623,6 +23559,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -20630,20 +23567,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "17-06-2019",
+    "year": "2019",
     "message": "Ma message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:28:06"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Judirrrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:28:29"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Malazo message",
     "name": "Person 2",
     "announcement": false,
@@ -20651,6 +23591,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20658,6 +23599,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20665,13 +23607,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "A message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:42:26"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Esque message",
     "name": "Person 2",
     "announcement": false,
@@ -20679,6 +23623,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20686,13 +23631,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:00:12"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20700,6 +23647,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20707,20 +23655,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Mejor message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:09:15"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:12:12"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20728,20 +23679,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:12:31"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Nada message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:14:04"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Será message",
     "name": "Person 2",
     "announcement": false,
@@ -20749,20 +23703,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Y message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:14:32"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Y message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:14:39"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -20770,6 +23727,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20777,13 +23735,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:16:26"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -20791,6 +23751,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -20798,6 +23759,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "50 message",
     "name": "Person 2",
     "announcement": false,
@@ -20805,6 +23767,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "O message",
     "name": "Person 2",
     "announcement": false,
@@ -20812,6 +23775,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Luxur message",
     "name": "Person 2",
     "announcement": false,
@@ -20819,27 +23783,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:55:52"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:56:13"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:56:14"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20847,6 +23815,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20854,6 +23823,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -20861,6 +23831,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Ni message",
     "name": "Person 2",
     "announcement": false,
@@ -20868,6 +23839,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -20875,20 +23847,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Solo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:57:46"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:58:23"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -20896,6 +23871,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20903,6 +23879,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20910,6 +23887,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Buscan message",
     "name": "Person 2",
     "announcement": false,
@@ -20917,6 +23895,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -20924,20 +23903,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:59:16"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "ni message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:59:22"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -20945,6 +23927,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -20952,13 +23935,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:00:24"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahhaha message",
     "name": "Person 2",
     "announcement": false,
@@ -20966,13 +23951,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Están message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:06:48"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20980,6 +23967,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20987,6 +23975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -20994,6 +23983,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21001,6 +23991,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21008,6 +23999,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -21015,13 +24007,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:20:11"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21029,6 +24023,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "https message",
     "name": "Person 2",
     "announcement": false,
@@ -21036,6 +24031,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21043,20 +24039,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:33:28"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:33:49"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -21064,13 +24063,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Debería message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:34:55"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21078,6 +24079,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21085,20 +24087,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:36:01"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Buenaaas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:36:04"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -21106,6 +24111,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21113,6 +24119,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -21120,6 +24127,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21127,6 +24135,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21134,6 +24143,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -21141,6 +24151,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21148,6 +24159,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -21155,13 +24167,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Buenazo message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:50:08"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "The message",
     "name": "Person 2",
     "announcement": false,
@@ -21169,13 +24183,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:50:39"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -21183,27 +24199,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:51:16"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:51:28"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:52:04"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21211,6 +24231,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21218,6 +24239,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Buenasoo message",
     "name": "Person 2",
     "announcement": false,
@@ -21225,6 +24247,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Alquila message",
     "name": "Person 2",
     "announcement": false,
@@ -21232,6 +24255,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21239,6 +24263,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21246,6 +24271,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -21253,6 +24279,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21260,6 +24287,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21267,6 +24295,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -21274,20 +24303,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:55:37"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:56:05"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -21295,6 +24327,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21302,6 +24335,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -21309,6 +24343,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21316,6 +24351,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -21323,6 +24359,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21330,6 +24367,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21337,6 +24375,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -21344,6 +24383,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Seguro message",
     "name": "Person 2",
     "announcement": false,
@@ -21351,6 +24391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Glory message",
     "name": "Person 2",
     "announcement": false,
@@ -21358,13 +24399,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:21:43"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21372,6 +24415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21379,13 +24423,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:21:46"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -21393,6 +24439,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -21400,6 +24447,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21407,6 +24455,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21414,6 +24463,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -21421,13 +24471,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "Decile message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:02:33"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21435,6 +24487,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -21442,6 +24495,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21449,6 +24503,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21456,6 +24511,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21463,27 +24519,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:43:05"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:51:43"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:51:43"
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21491,13 +24551,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "18-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:51:52"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -21505,6 +24567,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Classic message",
     "name": "Person 2",
     "announcement": false,
@@ -21512,6 +24575,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21519,6 +24583,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Ahí message",
     "name": "Person 2",
     "announcement": false,
@@ -21526,6 +24591,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -21533,13 +24599,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:26:03"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21547,13 +24615,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:26:09"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -21561,13 +24631,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:29:35"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21575,6 +24647,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21582,13 +24655,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:30:44"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Buenaaaaas message",
     "name": "Person 2",
     "announcement": false,
@@ -21596,6 +24671,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -21603,13 +24679,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "20:19:38"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21617,6 +24695,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -21624,6 +24703,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Buenaso message",
     "name": "Person 2",
     "announcement": false,
@@ -21631,6 +24711,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21638,6 +24719,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21645,6 +24727,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21652,6 +24735,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -21659,20 +24743,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:56:41"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:56:56"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -21680,6 +24767,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21687,13 +24775,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Seguro message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:57:25"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "400 message",
     "name": "Person 2",
     "announcement": false,
@@ -21701,13 +24791,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Sssiuuuu message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:57:33"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21715,6 +24807,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21722,13 +24815,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:58:16"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21736,6 +24831,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21743,6 +24839,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21750,13 +24847,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:59:45"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Huangdong message",
     "name": "Person 2",
     "announcement": false,
@@ -21764,13 +24863,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:59:51"
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Jajajaj message",
     "name": "Person 2",
     "announcement": false,
@@ -21778,6 +24879,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -21785,6 +24887,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Se message",
     "name": "Person 2",
     "announcement": false,
@@ -21792,6 +24895,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -21799,6 +24903,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21806,6 +24911,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21813,6 +24919,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -21820,6 +24927,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Pagaron message",
     "name": "Person 2",
     "announcement": false,
@@ -21827,6 +24935,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21834,6 +24943,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21841,6 +24951,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "19-06-2019",
+    "year": "2019",
     "message": "Malazo message",
     "name": "Person 2",
     "announcement": false,
@@ -21848,13 +24959,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "20:51:12"
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21862,6 +24975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21869,20 +24983,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:52:44"
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:53:08"
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21890,6 +25007,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21897,20 +25015,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:54:59"
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:55:34"
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -21918,6 +25039,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "Hahaja message",
     "name": "Person 2",
     "announcement": false,
@@ -21925,6 +25047,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "Decile message",
     "name": "Person 2",
     "announcement": false,
@@ -21932,6 +25055,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21939,6 +25063,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21946,6 +25071,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "🤣🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -21953,6 +25079,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -21960,6 +25087,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21967,6 +25095,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "20-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -21974,6 +25103,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -21981,6 +25111,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -21988,13 +25119,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "21-06-2019",
+    "year": "2019",
     "message": "Slave message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:24:04"
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22002,6 +25135,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22009,6 +25143,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22016,6 +25151,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22023,20 +25159,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "08:31:20"
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "Hahahsha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "10:48:57"
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22044,6 +25183,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22051,6 +25191,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22058,13 +25199,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "11:36:32"
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22072,6 +25215,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -22079,6 +25223,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22086,6 +25231,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22093,13 +25239,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:53:25"
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22107,6 +25255,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22114,6 +25263,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22121,6 +25271,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22128,6 +25279,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "Hahahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -22135,6 +25287,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -22142,6 +25295,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22149,6 +25303,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22156,6 +25311,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22163,13 +25319,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:17:45"
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -22177,20 +25335,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:30:11"
   },
   {
     "date": "22-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:30:15"
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22198,6 +25359,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -22205,6 +25367,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22212,6 +25375,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22219,6 +25383,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22226,6 +25391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22233,6 +25399,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -22240,6 +25407,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22247,6 +25415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22254,6 +25423,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22261,6 +25431,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Ma message",
     "name": "Person 2",
     "announcement": false,
@@ -22268,6 +25439,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22275,6 +25447,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22282,6 +25455,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22289,6 +25463,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22296,6 +25471,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22303,6 +25479,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -22310,6 +25487,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -22317,6 +25495,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Bang message",
     "name": "Person 2",
     "announcement": false,
@@ -22324,6 +25503,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "🔫 message",
     "name": "Person 2",
     "announcement": false,
@@ -22331,6 +25511,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22338,6 +25519,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22345,6 +25527,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22352,13 +25535,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:11:06"
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22366,13 +25551,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:11:21"
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22380,6 +25567,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "🤣🤣🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -22387,6 +25575,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -22394,13 +25583,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "No message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:13:31"
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22408,6 +25599,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Estaba message",
     "name": "Person 2",
     "announcement": false,
@@ -22415,6 +25607,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22422,6 +25615,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -22429,13 +25623,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:21:03"
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22443,27 +25639,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "22:26:21"
   },
   {
     "date": "23-06-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:27:15"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:32:52"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22471,13 +25671,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:33:02"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22485,6 +25687,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22492,6 +25695,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22499,20 +25703,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:10:49"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:10:51"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22520,6 +25727,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -22527,13 +25735,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Nada message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:21:56"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -22541,6 +25751,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -22548,6 +25759,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -22555,6 +25767,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22562,6 +25775,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22569,6 +25783,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22576,6 +25791,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -22583,6 +25799,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Qatar message",
     "name": "Person 2",
     "announcement": false,
@@ -22590,6 +25807,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Son message",
     "name": "Person 2",
     "announcement": false,
@@ -22597,6 +25815,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22604,13 +25823,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:43:36"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -22618,6 +25839,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22625,6 +25847,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22632,6 +25855,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22639,6 +25863,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22646,6 +25871,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -22653,13 +25879,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:46:04"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22667,6 +25895,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22674,6 +25903,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22681,6 +25911,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22688,6 +25919,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22695,13 +25927,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:52:10"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22709,6 +25943,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22716,20 +25951,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:00:11"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "Andate message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:00:19"
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22737,6 +25975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22744,6 +25983,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "24-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22751,20 +25991,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:09:52"
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:09:58"
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22772,6 +26015,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22779,6 +26023,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22786,20 +26031,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "01:18:00"
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "Hajaja message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "07:08:09"
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -22807,13 +26055,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "25-06-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "07:08:17"
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22821,6 +26071,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22828,6 +26079,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22835,13 +26087,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:24:54"
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22849,6 +26103,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -22856,6 +26111,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -22863,6 +26119,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -22870,6 +26127,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22877,13 +26135,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "26-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "21:30:03"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -22891,34 +26151,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:01:48"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:02:10"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "09:04:41"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "09:43:49"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -22926,6 +26191,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22933,6 +26199,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22940,6 +26207,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -22947,6 +26215,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Huangdong message",
     "name": "Person 2",
     "announcement": false,
@@ -22954,6 +26223,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "60 message",
     "name": "Person 2",
     "announcement": false,
@@ -22961,6 +26231,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22968,6 +26239,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -22975,20 +26247,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:29:53"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:30:23"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "En message",
     "name": "Person 2",
     "announcement": false,
@@ -22996,6 +26271,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "60 message",
     "name": "Person 2",
     "announcement": false,
@@ -23003,6 +26279,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23010,6 +26287,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23017,6 +26295,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23024,20 +26303,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:47:06"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:47:11"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23045,6 +26327,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Buenas message",
     "name": "Person 2",
     "announcement": false,
@@ -23052,6 +26335,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Entonces message",
     "name": "Person 2",
     "announcement": false,
@@ -23059,6 +26343,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -23066,6 +26351,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23073,13 +26359,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:24:12"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23087,13 +26375,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:42:21"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23101,6 +26391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Judirr message",
     "name": "Person 2",
     "announcement": false,
@@ -23108,6 +26399,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -23115,6 +26407,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -23122,6 +26415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23129,6 +26423,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23136,6 +26431,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -23143,6 +26439,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -23150,6 +26447,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Dame message",
     "name": "Person 2",
     "announcement": false,
@@ -23157,6 +26455,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23164,6 +26463,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23171,13 +26471,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:03:18"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hhaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23185,6 +26487,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -23192,6 +26495,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -23199,6 +26503,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23206,13 +26511,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:18:44"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Buena message",
     "name": "Person 2",
     "announcement": false,
@@ -23220,6 +26527,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Puedes message",
     "name": "Person 2",
     "announcement": false,
@@ -23227,6 +26535,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "3 message",
     "name": "Person 2",
     "announcement": false,
@@ -23234,6 +26543,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23241,13 +26551,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:20:53"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23255,6 +26567,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23262,6 +26575,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23269,6 +26583,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23276,6 +26591,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23283,6 +26599,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Sho message",
     "name": "Person 2",
     "announcement": false,
@@ -23290,6 +26607,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23297,6 +26615,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -23304,6 +26623,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Trash message",
     "name": "Person 2",
     "announcement": false,
@@ -23311,6 +26631,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23318,6 +26639,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23325,6 +26647,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Da message",
     "name": "Person 2",
     "announcement": false,
@@ -23332,6 +26655,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -23339,6 +26663,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23346,13 +26671,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Además message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:24:50"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -23360,13 +26687,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:25:06"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23374,6 +26703,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23381,6 +26711,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Nada message",
     "name": "Person 2",
     "announcement": false,
@@ -23388,6 +26719,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23395,6 +26727,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23402,6 +26735,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Eso message",
     "name": "Person 2",
     "announcement": false,
@@ -23409,6 +26743,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23416,6 +26751,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23423,6 +26759,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23430,6 +26767,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -23437,13 +26775,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:54:30"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23451,13 +26791,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:03:10"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23465,6 +26807,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -23472,6 +26815,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23479,6 +26823,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23486,6 +26831,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23493,6 +26839,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahahaj message",
     "name": "Person 2",
     "announcement": false,
@@ -23500,6 +26847,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Racista message",
     "name": "Person 2",
     "announcement": false,
@@ -23507,6 +26855,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23514,6 +26863,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23521,6 +26871,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -23528,13 +26879,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:55:14"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -23542,6 +26895,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23549,13 +26903,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:03:01"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23563,6 +26919,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23570,6 +26927,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23577,13 +26935,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:08:49"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23591,13 +26951,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahahaj message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:33:10"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Buenaaaaaso message",
     "name": "Person 2",
     "announcement": false,
@@ -23605,6 +26967,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23612,6 +26975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -23619,13 +26983,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Sha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:39:16"
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23633,6 +26999,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "27-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23640,6 +27007,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23647,6 +27015,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23654,6 +27023,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23661,6 +27031,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Judirrrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -23668,6 +27039,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -23675,6 +27047,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Para message",
     "name": "Person 2",
     "announcement": false,
@@ -23682,20 +27055,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:21:09"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:21:40"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -23703,6 +27079,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -23710,6 +27087,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23717,6 +27095,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23724,6 +27103,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23731,6 +27111,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -23738,13 +27119,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "🚫 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:28:53"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23752,6 +27135,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23759,6 +27143,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Visca message",
     "name": "Person 2",
     "announcement": false,
@@ -23766,13 +27151,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:29:51"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23780,6 +27167,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -23787,6 +27175,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Sssiiu message",
     "name": "Person 2",
     "announcement": false,
@@ -23794,34 +27183,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:39:58"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:40:15"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:40:40"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:42:07"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23829,13 +27223,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "15:42:58"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -23843,20 +27239,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:05:32"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Pur message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:24:45"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23864,6 +27263,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23871,6 +27271,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23878,6 +27279,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23885,6 +27287,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Haha message",
     "name": "Person 2",
     "announcement": false,
@@ -23892,13 +27295,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hay message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "17:29:25"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -23906,6 +27311,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23913,13 +27319,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:09:49"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -23927,6 +27335,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -23934,6 +27343,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Por message",
     "name": "Person 2",
     "announcement": false,
@@ -23941,6 +27351,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "God message",
     "name": "Person 2",
     "announcement": false,
@@ -23948,6 +27359,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Mani message",
     "name": "Person 2",
     "announcement": false,
@@ -23955,34 +27367,39 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:56:47"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:56:51"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:57:13"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:57:33"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -23990,6 +27407,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -23997,6 +27415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -24004,6 +27423,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24011,13 +27431,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:30:15"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24025,6 +27447,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -24032,6 +27455,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24039,6 +27463,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24046,13 +27471,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "22:47:24"
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24060,6 +27487,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "28-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -24067,6 +27495,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24074,20 +27503,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "03:54:19"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "03:54:19"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24095,27 +27527,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "03:54:20"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "03:54:20"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "03:54:20"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24123,6 +27559,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24130,6 +27567,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24137,6 +27575,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24144,13 +27583,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:22:53"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Es message",
     "name": "Person 2",
     "announcement": false,
@@ -24158,6 +27599,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24165,6 +27607,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24172,6 +27615,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24179,6 +27623,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -24186,13 +27631,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:34:43"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24200,6 +27647,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -24207,6 +27655,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -24214,6 +27663,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Que message",
     "name": "Person 2",
     "announcement": false,
@@ -24221,6 +27671,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Mirando message",
     "name": "Person 2",
     "announcement": false,
@@ -24228,13 +27679,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:44:20"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24242,6 +27695,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -24249,13 +27703,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:47:24"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24263,13 +27719,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:47:47"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24277,6 +27735,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -24284,6 +27743,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Ese message",
     "name": "Person 2",
     "announcement": false,
@@ -24291,20 +27751,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:49:22"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:49:32"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24312,6 +27775,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24319,6 +27783,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24326,13 +27791,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Buenas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:10:23"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Así message",
     "name": "Person 2",
     "announcement": false,
@@ -24340,27 +27807,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:12:14"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:12:39"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "13:12:45"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -24368,6 +27839,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24375,6 +27847,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Ssiiuu message",
     "name": "Person 2",
     "announcement": false,
@@ -24382,6 +27855,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24389,6 +27863,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24396,13 +27871,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:30:16"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24410,6 +27887,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24417,6 +27895,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -24424,6 +27903,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Otla message",
     "name": "Person 2",
     "announcement": false,
@@ -24431,6 +27911,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Estabas message",
     "name": "Person 2",
     "announcement": false,
@@ -24438,6 +27919,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Con message",
     "name": "Person 2",
     "announcement": false,
@@ -24445,13 +27927,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:32:24"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24459,6 +27943,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24466,6 +27951,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -24473,13 +27959,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Entonces message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:32:55"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24487,6 +27975,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -24494,6 +27983,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24501,27 +27991,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:33:22"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:33:29"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": " message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:33:31"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24529,6 +28023,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Siuu message",
     "name": "Person 2",
     "announcement": false,
@@ -24536,6 +28031,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24543,6 +28039,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24550,6 +28047,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24557,13 +28055,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "16:43:32"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24571,6 +28071,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Venite message",
     "name": "Person 2",
     "announcement": false,
@@ -24578,6 +28079,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Cerdazisisiim message",
     "name": "Person 2",
     "announcement": false,
@@ -24585,6 +28087,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24592,6 +28095,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "Ssiiii message",
     "name": "Person 2",
     "announcement": false,
@@ -24599,13 +28103,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:58:37"
   },
   {
     "date": "29-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24613,6 +28119,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "Hahha message",
     "name": "Person 2",
     "announcement": false,
@@ -24620,13 +28127,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "Ahora message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "00:00:21"
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -24634,6 +28143,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24641,6 +28151,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "Sssiuuu message",
     "name": "Person 2",
     "announcement": false,
@@ -24648,6 +28159,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "Spain message",
     "name": "Person 2",
     "announcement": false,
@@ -24655,6 +28167,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24662,6 +28175,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24669,13 +28183,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "30-06-2019",
+    "year": "2019",
     "message": "Si message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:40:49"
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24683,6 +28199,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24690,6 +28207,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -24697,6 +28215,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "From message",
     "name": "Person 2",
     "announcement": false,
@@ -24704,27 +28223,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:53:45"
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:53:45"
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:56:14"
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24732,6 +28255,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24739,13 +28263,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:00:33"
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -24753,13 +28279,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:45:12"
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24767,6 +28295,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24774,6 +28303,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -24781,6 +28311,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "02-07-2019",
+    "year": "2019",
     "message": "Fagbesh message",
     "name": "Person 2",
     "announcement": false,
@@ -24788,13 +28319,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "12:43:53"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24802,6 +28335,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Judir message",
     "name": "Person 2",
     "announcement": false,
@@ -24809,6 +28343,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -24816,6 +28351,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24823,6 +28359,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24830,6 +28367,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24837,6 +28375,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Judirrrr message",
     "name": "Person 2",
     "announcement": false,
@@ -24844,6 +28383,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24851,6 +28391,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24858,13 +28399,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:37:24"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24872,6 +28415,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -24879,6 +28423,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Si message",
     "name": "Person 2",
     "announcement": false,
@@ -24886,6 +28431,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Pero message",
     "name": "Person 2",
     "announcement": false,
@@ -24896,6 +28442,7 @@ export const demoData: IMessageData[] = [
   null,
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -24903,20 +28450,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:48:20"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:48:43"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Ahh message",
     "name": "Person 2",
     "announcement": false,
@@ -24924,13 +28474,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Buenas message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:49:25"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -24938,6 +28490,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24945,20 +28498,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:52:39"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Judirrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:13"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Esta message",
     "name": "Person 2",
     "announcement": false,
@@ -24966,6 +28522,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "La message",
     "name": "Person 2",
     "announcement": false,
@@ -24973,13 +28530,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:04:53"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24987,6 +28546,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -24994,6 +28554,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "También message",
     "name": "Person 2",
     "announcement": false,
@@ -25001,6 +28562,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25008,6 +28570,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25015,13 +28578,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Pero message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:08:57"
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Mejor message",
     "name": "Person 2",
     "announcement": false,
@@ -25029,6 +28594,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "Bueno message",
     "name": "Person 2",
     "announcement": false,
@@ -25036,6 +28602,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25043,6 +28610,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": " message",
     "name": "Person 2",
     "announcement": false,
@@ -25050,6 +28618,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "03-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25057,13 +28626,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:43:07"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25071,6 +28642,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25078,6 +28650,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25085,20 +28658,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:53:16"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:53:21"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25106,6 +28682,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -25113,13 +28690,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "19:13:31"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25127,6 +28706,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25134,6 +28714,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -25141,6 +28722,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25148,13 +28730,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:03:15"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25162,6 +28746,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25169,13 +28754,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "20:04:54"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Hahha message",
     "name": "Person 2",
     "announcement": false,
@@ -25183,6 +28770,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Drug message",
     "name": "Person 2",
     "announcement": false,
@@ -25190,6 +28778,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Judirrr message",
     "name": "Person 2",
     "announcement": false,
@@ -25197,6 +28786,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Esos message",
     "name": "Person 2",
     "announcement": false,
@@ -25204,6 +28794,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "No message",
     "name": "Person 2",
     "announcement": false,
@@ -25211,6 +28802,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25218,20 +28810,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:24:58"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Hahahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:31:20"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Esos message",
     "name": "Person 2",
     "announcement": false,
@@ -25239,6 +28834,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Vaya message",
     "name": "Person 2",
     "announcement": false,
@@ -25246,6 +28842,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25253,6 +28850,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25260,6 +28858,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25267,6 +28866,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25274,13 +28874,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:46:38"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -25288,13 +28890,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "🤣 message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "21:47:47"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25302,13 +28906,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:13:20"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25316,13 +28922,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:16:32"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Buenazo message",
     "name": "Person 2",
     "announcement": false,
@@ -25330,13 +28938,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "23:18:07"
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25344,6 +28954,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25351,6 +28962,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25358,6 +28970,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "04-07-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -25365,6 +28978,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -25372,13 +28986,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "14:56:26"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
@@ -25386,6 +29002,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": null,
     "name": null,
     "announcement": true,
@@ -25393,13 +29010,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Hahah message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "15:35:43"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Y message",
     "name": "Person 2",
     "announcement": false,
@@ -25407,6 +29026,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25414,6 +29034,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25421,13 +29042,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": null,
-    "name": null,
+    "name": "Person 1",
     "announcement": true,
     "time": "15:39:03"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25435,6 +29058,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "🤣 message",
     "name": "Person 2",
     "announcement": false,
@@ -25442,13 +29066,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Judirrr message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "18:39:16"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Otla message",
     "name": "Person 2",
     "announcement": false,
@@ -25456,6 +29082,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25463,13 +29090,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:51:40"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25477,6 +29106,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25484,6 +29114,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25491,6 +29122,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Hahahah message",
     "name": "Person 2",
     "announcement": false,
@@ -25498,6 +29130,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Vamos message",
     "name": "Person 2",
     "announcement": false,
@@ -25505,6 +29138,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Con message",
     "name": "Person 2",
     "announcement": false,
@@ -25512,27 +29146,31 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:53:42"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:53:54"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Hahaha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:54:13"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25540,6 +29178,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "A message",
     "name": "Person 2",
     "announcement": false,
@@ -25547,13 +29186,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Mañana message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:56:05"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25561,6 +29202,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25568,6 +29210,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25575,6 +29218,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25582,20 +29226,23 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Haha message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:59:17"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Nada message",
-    "name": "Person 2",
+    "name": "Person 1",
     "announcement": false,
     "time": "19:59:24"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Por message",
     "name": "Person 2",
     "announcement": false,
@@ -25603,13 +29250,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:06"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25617,13 +29266,15 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
-    "name": "Person 3",
+    "name": "Person 1",
     "announcement": false,
     "time": "20:01:16"
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25631,6 +29282,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25638,6 +29290,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 2",
     "announcement": false,
@@ -25645,6 +29298,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Hahah message",
     "name": "Person 2",
     "announcement": false,
@@ -25652,6 +29306,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Casha message",
     "name": "Person 2",
     "announcement": false,
@@ -25659,6 +29314,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Sha message",
     "name": "Person 2",
     "announcement": false,
@@ -25666,6 +29322,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25673,6 +29330,7 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "message",
     "name": "Person 3",
     "announcement": false,
@@ -25680,9 +29338,10 @@ export const demoData: IMessageData[] = [
   },
   {
     "date": "05-07-2019",
+    "year": "2019",
     "message": "Hahaha message",
     "name": "Person 2",
     "announcement": false,
     "time": "20:29:46"
-  },
+  }
 ]

@@ -1,6 +1,19 @@
+.results_container {
+  display: grid;
+  grid-template-columns: 10% 90%;
+}
+
+.left {
+  border-right: 1px solid #ccc;
+}
+
+.right {
+  background-color:#F1F1EF;
+}
+
 .chart_container {
   // width: 1000px;
-  height: 500px;
+  min-height: 500px;
 }
 
 .chart_container {
@@ -8,8 +21,15 @@
   margin-bottom: 50px;
 }
 
-.heat_map_container {
+// .heat_map_container {
+//   width: 100%;
+//   min-height: 500px;
+//   // height: 300px;
+// }
+
+.test {
   width: 100%;
+  // min-height: 500px;
 }
 
 .chart_group_one {
@@ -24,5 +44,23 @@
     display: flex;
     flex-direction: column;
     // width: 90%;
+  }
+}
+.test {
+  margin-bottom: 100px;
+  margin-top: 20px;
+  z-index: 1000;
+}
+
+.loading_home {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  & .loader_container {
+    width: 10%;
+    margin: 150px auto;
   }
 }

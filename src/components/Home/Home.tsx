@@ -2,15 +2,16 @@ import React, { useContext, useState } from "react";
 import { withRouter } from "react-router-dom";
 import { PacmanLoader } from "react-spinners";
 import backgroundImage from "../../assets/background.jpg";
-import { setAllData } from "../../context/actions";
+import { setAllData, clearError } from "../../context/actions";
 import AppContext from "../../context/context";
 import { IMessageData, Parser } from "../../utils/parseChat";
 import styles from "./index.module.scss";
 import Swal from "sweetalert2";
 import { demoData } from "../../utils/demoData";
+import moment from 'moment'
 
 const Home: React.FC = (props: any) => {
-  const { dispatch } = useContext(AppContext);
+  const { dispatch, state } = useContext(AppContext);
   const [loading, setLoading] = useState(false);
   const onHandleInput = (event: any) => {
     setLoading(true);
@@ -48,53 +49,34 @@ const Home: React.FC = (props: any) => {
   };
 
   const calculateData = (messages: IMessageData[]) => {
-    try {
-      const pieChartData = Parser.getPieChartData(messages);
-      const heatMapData = Parser.getHeapMapData(messages);
-      const { radarData, people } = Parser.getRadarData(messages);
-      const lineGraphDataMonths = Parser.getLineGraphDataMonths(
-        messages,
-        people
-      );
-      const lineGraphDataHours = Parser.getLineGraphDataHour(messages, people);
-      const totals = Parser.getTotals(messages);
-      const averages = Parser.getAverages(totals);
-      dispatch(
-        setAllData({
-          messagesData: messages.filter(item => item !== undefined),
-          pieChartData,
-          heatMapData,
-          radarData,
-          people,
-          lineGraphData: lineGraphDataMonths,
-          lineGraphDataHours,
-          totals,
-          averages,
-          groupName: messages[0].name
-        })
-      );
-    } catch (err) {
-      Swal.fire({
-        title: "Sorry, there was a problem loading your data!",
-        text: "Make sure the file you are uploading is of the correct format",
-        type: "error",
-        confirmButtonColor: "#3085d6",
-        confirmButtonText: "OK!"
-      }).then(result => {
-        if (result.value) {
-          props.history.push("/");
-        }
-      });
-    }
+    setAllData(messages, dispatch, 'ALL');
   };
 
   const setDemoData = () => {
-    setLoading(true)
-    calculateData(demoData);
-    setLoading(false)
-    props.history.push("/results");
+    setLoading(true);
+    setTimeout(function() {
+      calculateData(demoData);
+      setLoading(false);
+      props.history.push("/results");
+    }, 0);
   };
-  console.log(loading)
+
+
+  if (state.error) {
+    dispatch(clearError());
+    Swal.fire({
+      title: "Sorry, there was a problem loading your data!",
+      text: "Make sure the file you are uploading is of the correct format",
+      type: "error",
+      confirmButtonColor: "#3085d6",
+      confirmButtonText: "OK!"
+    }).then(result => {
+      if (result.value) {
+        props.history.push("/");
+      }
+    });
+  }
+
   if (loading) {
     return (
       <div className={styles.loading_home}>
@@ -112,9 +94,8 @@ const Home: React.FC = (props: any) => {
       </div>
       <div className={styles.right}>
         <h2>Analyse your whatsapp group chats with awesome graphs!</h2>
-        <p className={styles.input_description}>
-          Upload your <span>Whatsapp</span> chat log here
-        </p>
+        <p className={styles.input_description}>Please upload your whatsapp conversion history here. If you don't know how to do this, you can follow the instructiosn <a target="_blank" href="https://faq.whatsapp.com/en/wp/22548236">here.</a>Make sure export the chat <b>without media!</b></p>
+        <p className={styles.input_description}>All the information is parsed client side and destroyed when you close the page. If you don't feel comfortable uploading your chat log but you would like to see some demo data you can select the corresponding option.</p>
         <div className={styles.options}>
           <input
             onChange={onHandleInput}

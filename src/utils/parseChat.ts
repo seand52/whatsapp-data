@@ -6,6 +6,7 @@ export interface IMessageData {
   name: string;
   message: string;
   announcement: boolean | null;
+  year: string
   time: string;
 }
 
@@ -54,8 +55,10 @@ export class Parser {
     }
     const message = this.checkIfNull(line.match(/(?<=: ).*/), 0);
     const name = this.checkIfNull(line.match(/(?<=\] )(.*?)(?=\:)/), 0);
+
     this.messageData = {
       date: date.replace(new RegExp("/", "g"), "-"),
+      year: moment(date, 'DD/MM/YYYY').format('YYYY'),
       message,
       name,
       announcement: false,
@@ -68,16 +71,20 @@ export class Parser {
     return this.messageData;
   }
 
-  private static getGroupParticpants(messages: IMessageData[]) {
+  public static getGroupParticpants(messages: IMessageData[]) {
     const people: string[] = [];
+    const years: string[] = []
     messages.forEach(item => {
       if (item !== null && typeof item !== "undefined") {
         if (!people.includes(item.name)) {
           people.push(item.name);
         }
+        if (!years.includes(item.year)) {
+          years.push(item.year)
+        }
       }
     });
-    return people.filter(item => item !== null);
+    return {people: people.filter(item => item !== null), years };
   }
 
   private static checkIfNull(val: RegExpMatchArray, index: number) {
@@ -126,8 +133,8 @@ export class Parser {
     return output;
   }
 
-  public static getRadarData(messages: IMessageData[]) {
-    const people = this.getGroupParticpants(messages);
+  public static getRadarData(messages: IMessageData[], people: string[]) {
+    // const people = this.getGroupParticpants(messages);
     const obj = {
       Monday: "",
       Tuesday: "",
@@ -161,7 +168,7 @@ export class Parser {
         day: prop
       });
     }
-    return { radarData: output, people };
+    return output;
   }
 
   public static getLineGraphDataMonths(
@@ -264,7 +271,7 @@ export class Parser {
     return {
       totalDays: {
         value: totalDays,
-        identifier: "Total Days"
+        identifier: "Day Span"
       },
       totalMessages: {
         value: totalMessages,

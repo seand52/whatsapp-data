@@ -32,11 +32,14 @@ export interface AppStateInterface {
   heatMapData: IHeatMapChart[] | [];
   radarData: IRadarChart[] | [];
   people: string[] | [];
+  years: [number | 'ALL'] | [];
+  currentYear: number | 'ALL' | null
   lineGraphData: ILineGraphData[] | [];
   lineGraphDataHours: ILineGraphData[] | [];
   totals: ITotals | {};
   averages: IAverages | {};
-  groupName: string | null
+  groupName: string | null;
+  error: string | null;
 }
 export const initialState: AppStateInterface = {
   messagesData: [],
@@ -44,11 +47,14 @@ export const initialState: AppStateInterface = {
   heatMapData: [],
   radarData: [],
   people: [],
+  years: [],
+  currentYear: null,
   lineGraphData: [],
   lineGraphDataHours: [],
   averages: {},
   totals: {},
-  groupName: null
+  groupName: null,
+  error: null
 };
 
 const AppContext = React.createContext({ state: initialState, dispatch: null });

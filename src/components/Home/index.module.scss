@@ -42,17 +42,17 @@
   font-size: 1.25em;
   font-weight: 700;
   color: white;
-  background-color: blue;
+  background-color: #5A2971;
   display: inline-block;
 }
 
 .file__input:focus + label,
 .file__input + label:hover {
   cursor: pointer;
-  background-color: red;
 }
 
 .input_description {
+  width: 80%;
   & > span {
     font-weight: bold
   }
@@ -69,9 +69,9 @@
 .options {
   & > .demo_data_btn {
     margin-left: 20px;
-    height: 50px;
+    height: 53px;
     border-radius: 20px;
-    background: red;
+    background: #5A2971;
     color: white;
     cursor: pointer;
     font-weight: bold;
