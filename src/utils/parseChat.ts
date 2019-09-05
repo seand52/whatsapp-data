@@ -53,9 +53,8 @@ export class Parser {
       date = fullDate.split(",")[0];
       time = fullDate.split(",")[1].trim();
     }
-    const message = this.checkIfNull(line.match(/(?<=: ).*/), 0);
-    const name = this.checkIfNull(line.match(/(?<=\] )(.*?)(?=\:)/), 0);
-
+    const message = this.checkIfNull(line.match(/(: )(.*)/), 2);
+    const name = this.checkIfNull(line.match(/(\] )(.*?)(\:)/), 2);
     this.messageData = {
       date: date.replace(new RegExp("/", "g"), "-"),
       year: moment(date, 'DD/MM/YYYY').format('YYYY'),
@@ -88,6 +87,7 @@ export class Parser {
   }
 
   private static checkIfNull(val: RegExpMatchArray, index: number) {
+    debugger
     if (val) {
       return val[index];
     }
