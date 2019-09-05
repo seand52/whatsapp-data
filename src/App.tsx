@@ -11,7 +11,8 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <AppProvider value={{state, dispatch}}>
-      <Router>
+        <h1>Hola mundo</h1>
+      {/* <Router>
         {AppRouter.map(route => (
           <Route
             key={route.id}
@@ -20,7 +21,7 @@ const App: React.FC = () => {
             exact={route.exact}
           />
         ))}
-      </Router>
+      </Router> */}
       </AppProvider>
     </div>
   );
