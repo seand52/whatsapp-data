@@ -42,17 +42,17 @@ export class Parser {
     let fullDate = this.checkIfNull(line.match(/^\[(.*?)\]/g), 1);
     let date;
     let time;
-    // if (fullDate !== null) {
-    //   date = fullDate.split(",")[0];
-    //   time = fullDate.split(",")[1].trim();
-    // } else {
-    //   fullDate = this.checkIfNull(line.match(/^.\[(.*?)\]/g), 1);
-    //   if (fullDate === null) {
-    //     return;
-    //   }
-    //   date = fullDate.split(",")[0];
-    //   time = fullDate.split(",")[1].trim();
-    // }
+    if (fullDate !== null) {
+      date = fullDate.split(",")[0];
+      time = fullDate.split(",")[1].trim();
+    } else {
+      fullDate = this.checkIfNull(line.match(/^.\[(.*?)\]/g), 1);
+      if (fullDate === null) {
+        return;
+      }
+      date = fullDate.split(",")[0];
+      time = fullDate.split(",")[1].trim();
+    }
     // const message = this.checkIfNull(line.match(/(?<=: ).*/g), 0);
     // const name = this.checkIfNull(line.match(/(?<=\] )(.*?)(?=\:)/g), 0);
 
