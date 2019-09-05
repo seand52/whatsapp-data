@@ -8,7 +8,7 @@ import { IMessageData, Parser } from "../../utils/parseChat";
 import styles from "./index.module.scss";
 import Swal from "sweetalert2";
 import { demoData } from "../../utils/demoData";
-import moment from 'moment'
+import moment from "moment";
 
 const Home: React.FC = (props: any) => {
   const { dispatch, state } = useContext(AppContext);
@@ -49,7 +49,7 @@ const Home: React.FC = (props: any) => {
   };
 
   const calculateData = (messages: IMessageData[]) => {
-    setAllData(messages, dispatch, 'ALL');
+    setAllData(messages, dispatch, "ALL");
   };
 
   const setDemoData = () => {
@@ -60,7 +60,6 @@ const Home: React.FC = (props: any) => {
       props.history.push("/results");
     }, 0);
   };
-
 
   if (state.error) {
     dispatch(clearError());
@@ -89,13 +88,27 @@ const Home: React.FC = (props: any) => {
 
   return (
     <div className={styles.home}>
-      <div className={styles.left}>
+      {/* <div className={styles.left}>
         <img src={backgroundImage} />
-      </div>
-      <div className={styles.right}>
+      </div> */}
+      <div className={styles.content}>
         <h2>Analyse your whatsapp group chats with awesome graphs!</h2>
-        <p className={styles.input_description}>Please upload your whatsapp conversion history here. If you don't know how to do this, you can follow the instructiosn <a target="_blank" href="https://faq.whatsapp.com/en/wp/22548236">here.</a>Make sure export the chat <b>without media!</b></p>
-        <p className={styles.input_description}>All the information is parsed client side and destroyed when you close the page. If you don't feel comfortable uploading your chat log but you would like to see some demo data you can select the corresponding option.</p>
+        <p className={styles.input_description}>
+          Please upload your whatsapp conversion history here. If you don't know
+          how to do this, you can follow the instructions{" "}
+          <a target="_blank" href="https://faq.whatsapp.com/en/wp/22548236">
+            here.
+          </a>{" "}
+          Make sure export the chat <b>without media!</b>
+        </p>
+        <p className={styles.input_description}>
+          All the information is parsed client side and destroyed when you close
+          the page. If you don't feel comfortable uploading your chat log but
+          you would like to see some demo data you can select the corresponding
+          option.
+        </p>
+
+        <p className={styles.input_description_mobile}>This web app is not compatible with mobile devices</p>
         <div className={styles.options}>
           <input
             onChange={onHandleInput}

@@ -1,10 +1,14 @@
 .home {
   // max-width: 1320px;
   margin: 0 auto;
-  display: grid;
+  // display: grid;
   height: 100vh;
+  background-color: aliceblue;
   width: 100%;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  // grid-template-columns: 1fr 1fr;
 }
 
 .left {
@@ -52,7 +56,6 @@
 }
 
 .input_description {
-  width: 80%;
   & > span {
     font-weight: bold
   }
@@ -68,8 +71,9 @@
 
 .options {
   & > .demo_data_btn {
-    margin-left: 20px;
-    height: 53px;
+    padding: 15px;
+    margin-top: 10px;
+    height: 56px;
     border-radius: 20px;
     background: #5A2971;
     color: white;
@@ -77,4 +81,21 @@
     font-weight: bold;
     font-size: 17px;
   }
+}
+
+.content {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .content {
+    width: 100%;
+  }
+}
+
+.input_description_mobile {
+  font-weight: bold;
+  text-decoration: underline;
 }
