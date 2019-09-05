@@ -35,40 +35,40 @@ export class Parser {
   private static messageData: IMessageData;
 
   public static formatLine(line: string): any {
-    // if (!line || !line.length) {
-    //   return;
-    // }
+    if (!line || !line.length) {
+      return;
+    }
 
-    // // let fullDate = this.checkIfNull(line.match(/^\[(.*?)\]/), 1);
-    // // let date;
-    // // let time;
-    // // if (fullDate !== null) {
-    // //   date = fullDate.split(",")[0];
-    // //   time = fullDate.split(",")[1].trim();
-    // // } else {
-    // //   fullDate = this.checkIfNull(line.match(/^.\[(.*?)\]/), 1);
-    // //   if (fullDate === null) {
-    // //     return;
-    // //   }
-    // //   date = fullDate.split(",")[0];
-    // //   time = fullDate.split(",")[1].trim();
-    // // }
-    // // const message = this.checkIfNull(line.match(/(?<=: ).*/), 0);
-    // // const name = this.checkIfNull(line.match(/(?<=\] )(.*?)(?=\:)/), 0);
+    let fullDate = this.checkIfNull(line.match(/^\[(.*?)\]/), 1);
+    let date;
+    let time;
+    if (fullDate !== null) {
+      date = fullDate.split(",")[0];
+      time = fullDate.split(",")[1].trim();
+    } else {
+      fullDate = this.checkIfNull(line.match(/^.\[(.*?)\]/), 1);
+      if (fullDate === null) {
+        return;
+      }
+      date = fullDate.split(",")[0];
+      time = fullDate.split(",")[1].trim();
+    }
+    const message = this.checkIfNull(line.match(/(?<=: ).*/), 0);
+    const name = this.checkIfNull(line.match(/(?<=\] )(.*?)(?=\:)/), 0);
 
-    // this.messageData = {
-    //   date: date.replace(new RegExp("/", "g"), "-"),
-    //   year: moment(date, 'DD/MM/YYYY').format('YYYY'),
-    //   message,
-    //   name,
-    //   announcement: false,
-    //   time
-    // };
+    this.messageData = {
+      date: date.replace(new RegExp("/", "g"), "-"),
+      year: moment(date, 'DD/MM/YYYY').format('YYYY'),
+      message,
+      name,
+      announcement: false,
+      time
+    };
 
-    // if (!message) {
-    //   this.messageData.announcement = true;
-    // }
-    // return this.messageData;
+    if (!message) {
+      this.messageData.announcement = true;
+    }
+    return this.messageData;
   }
 
   public static getGroupParticpants(messages: IMessageData[]) {
