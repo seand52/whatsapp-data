@@ -11,6 +11,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <AppProvider value={{state, dispatch}}>
+        <h1>Hola mundo</h1>
       <Router>
         {AppRouter.map(route => (
           <Route
